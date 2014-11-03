@@ -281,58 +281,6 @@ nav .pull-right{
 	padding-left: 5px;
 }
 
-#mobile-header {
-    display: none;
-}
-
-#mobile-header a{
-	width: 46px;
-	display:block;
-}
-
-
-#mobile-header div svg{
-	fill:white;
-	height: 15px;
-	width: 15px;
-	padding: 13px 15px;
-	display:block;
-}
-
-#mobile-header div:hover svg{
-	fill:#FF5000;
-}
-
-
-@media only screen and (max-width: 840px){
-    #mobile-header {
-        display: inline-block;
-        width: 46px;
-        height: 42px;
-        border-right:1px solid white;
-    }
-
-    nav ul{
-    	display:none;
-    }
-
-    .search input{
-    	width: 180px;
-    }
-
-    nav img{
-    	margin-left: 10px;
-    }
-
-}
-
-
-@media only screen and (max-width: 370px){
-	.search{
-		display: none;
-	}
-}
-
 
 /*hero*/
 
