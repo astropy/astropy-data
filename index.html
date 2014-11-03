@@ -54,7 +54,7 @@ title: Astropy Data Server
 
       {% if (firstdir == 'css') or (firstdir == 'images') %}
       {% else %}
-        <li><a href="{{ s.path }}">{{ s.path }}</a>
+        <li><a href="{{ s.path |remove_first: "/" }}">{{ s.path |remove_first: "/" }}</a>
         </li>
       {% endif %}
     {% endfor %}
