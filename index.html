@@ -47,7 +47,7 @@ title: Astropy Data Server
 
       {% assign firstdir = s.path |remove_first: "/" | split: "/" | first%}
 
-      {% if (firstdir == 'css') or (firstdir == 'images') or (firstdir == 'pages-build-version')%}
+      {% if (firstdir == 'css') or (firstdir == 'images') or (firstdir == 'pages-build-version') or (s.path contains 'README.md') %}
       {% else %}
         <li><a href="{{ s.path |remove_first: "/" }}">{{ s.path |remove_first: "/" }}</a>
         </li>
