@@ -1,0 +1,13 @@
+---
+title: File manifest
+---
+
+[
+   {% for s in site.static_files %}
+      {% assign firstdir = s.path |remove_first: "/" | split: "/" | first%}
+      {% if (firstdir == 'css') or (firstdir == 'images') or (firstdir == 'pages-build-version') or (s.path contains 'README.md') %}
+      {% else %}
+      "{{ s.path |remove_first: "/" }}",
+      {% endif %}
+   {% endfor %}
+""]
