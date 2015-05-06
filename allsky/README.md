@@ -7,5 +7,5 @@ All-sky
   [All-sky posterior map](http://www.ligo.org/scientists/first2years/) in
   HEALPIX format for a simulated event observed by the Advanced Laser
   Interferometer Gravitational-wave Observatory (aLIGO). The event ID is
-  890025 and the map was produced by Bayestar. The maps are described in more
-  detail in [Berry et al. (2014)](http://arxiv.org/abs/1411.6934).
+  890025 and the map was produced by BAYESTAR. The maps are described in more
+  detail in [Singer et al. (2014)](http://arxiv.org/abs/1404.5623).
