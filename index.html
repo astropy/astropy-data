@@ -13,8 +13,10 @@ title: Astropy Data Server
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:200,300,400italic,400,700' rel='stylesheet' type='text/css' />
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 
+<!-- Uncomment this once the mirroring server grabs file lists from JSON instead of html.  Also change the <ul> below to <ul id="files-list"> and replace the content with "Loading file list..."
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="js/index_page.js"></script>
+-->
 <title>{{ page.title }}</title>
 
 </head>
@@ -43,8 +45,14 @@ title: Astropy Data Server
   The files stored here are listed below.
   </p>
 
-  <ul id="files-list">
-  Loading file list...  
+  <ul>
+   {% for s in site.static_files %}
+      {% assign firstdir = s.path |remove_first: "/" | split: "/" | first%}
+      {% if (firstdir == 'js') or (firstdir == 'css') or (firstdir == 'images') or (firstdir == 'pages-build-version') or (s.path contains 'README.md') %}
+      {% else %}
+      <li><a href="{{ s.path |remove_first: "/" }}">{{ s.path |remove_first: "/" }}</a></li>
+      {% endif %}
+   {% endfor %}
   </ul>
 
   <p>
