@@ -7,7 +7,7 @@ If you want to add a site to this registry, you should first make sure you chang
 The best way to do this is:
 ```
 from astropy.coordinates.tests import test_sites
-test_sites.test_builtin_matches_remote('file://path/to/your/new/sites.json')
+test_sites.check_builtin_matches_remote('file://path/to/your/new/sites.json')
 ```
 if this function executes without complaint, all is fine.  
 It will raise an error if your new file is not consistent with the builtin file (or doesn't parse).
