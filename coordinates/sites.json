@@ -465,5 +465,46 @@
              "SAAO",
              "Sutherland"
         ]
+    },
+    "srt": {
+        "source": "SRT website & google maps",
+        "elevation": 650.0,
+        "name": "Sardinia Radio Telescope",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 39.493040,
+        "elevation_unit": "meter",
+        "longitude": 9.24516,
+        "aliases": [
+             "SRT"
+        ]
+    },
+    "medicina": {
+        "source": "Medicina Radio Telescope website & google maps",
+        "elevation": 25.0,
+        "name": "Medicina Radio Telescope",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 44.5205,
+        "elevation_unit": "meter",
+        "longitude": 11.6469,
+        "aliases": [
+             "Medicina Dish",
+             "Medicina"
+        ]
+    },
+    "noto": {
+        "source": "Noto Radio Telescope website & google maps",
+        "elevation": 30.0,
+        "name": "Noto Radio Telescope",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 36.87585,
+        "elevation_unit": "meter",
+        "longitude": 14.9889,
+        "aliases": [
+             "Noto"
+        ]
     }
+
 }
