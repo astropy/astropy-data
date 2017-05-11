@@ -614,5 +614,20 @@
         "aliases": [
              ""
         ]
+    },
+    "dct": {
+        "source": "Site GPS on 20130708 UT as recorded in observatory wiki",
+        "elevation": 2337.0,
+        "name": "Discovery Channel Telescope",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 34.744305,
+        "elevation_unit": "meter",
+        "longitude": 248.577485,
+        "aliases": [
+             "DCT",
+             "Discovery Channel Telescope",
+             "Happy Jack"
+        ]
     }
 }
