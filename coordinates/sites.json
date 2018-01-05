@@ -19,9 +19,9 @@
         "name": "Mount Wilson Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 34.222579805556,
+        "latitude": 34.2259,
         "elevation_unit": "meter",
-        "longitude": -118.061684,
+        "longitude": -118.057,
         "timezone": "America/Los_Angeles",
         "aliases": [
             "CHARA"
@@ -89,9 +89,9 @@
         "name": "Cerro Tololo Interamerican Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -30.165277777778,
+        "latitude": -30.169,
         "elevation_unit": "meter",
-        "longitude": -70.815,
+        "longitude": -70.8062,
         "timezone": "America/Santiago",
         "aliases": [
             "Cerro Tololo Interamerican Observatory",
@@ -119,9 +119,9 @@
         "name": "Beijing XingLong Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 40.393333333333,
+        "latitude": 40.3957,
         "elevation_unit": "meter",
-        "longitude": 117.575,
+        "longitude": 117.5759,
         "timezone": "Asia/Shanghai",
         "aliases": [
             "Beijing XingLong Observatory"
@@ -175,9 +175,9 @@
         "name": "La Silla Observatory (ESO)",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -29.256666666667,
+        "latitude": -29.259,
         "elevation_unit": "meter",
-        "longitude": -70.73,
+        "longitude": -70.7338,
         "timezone": "America/Santiago",
         "aliases": [
             "La Silla Observatory"
@@ -189,9 +189,9 @@
         "name": "Paranal Observatory (ESO)",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -24.6252,
+        "latitude": -24.6275,
         "elevation_unit": "meter",
-        "longitude": -70.403,
+        "longitude": -70.4045,
         "timezone": "America/Santiago",
         "aliases": [
             "Cerro Paranal",
@@ -317,9 +317,9 @@
         "name": "Las Campanas Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -29.003333333333,
+        "latitude": -29.0142,
         "elevation_unit": "meter",
-        "longitude": -70.701666666667,
+        "longitude": -70.6925,
         "timezone": "America/Santiago",
         "aliases": [
             "Las Campanas Observatory"
@@ -491,7 +491,7 @@
         "latitude_unit": "degree",
         "latitude": 19.823801447222,
         "elevation_unit": "meter",
-        "longitude": 155.46904675278,
+        "longitude": -155.46904675278,
         "timezone": "Pacific/Honolulu",
         "aliases": [
             "gemn"
@@ -505,7 +505,7 @@
         "latitude_unit": "degree",
         "latitude": 19.826218316667,
         "elevation_unit": "meter",
-        "longitude": 155.47199878889,
+        "longitude": -155.47199878889,
         "timezone": "Pacific/Honolulu",
         "aliases": [
             ""
@@ -519,7 +519,7 @@
         "latitude_unit": "degree",
         "latitude": 32.7016,
         "elevation_unit": "meter",
-        "longitude": -109.8719,
+        "longitude": -109.8887,
         "timezone": "America/Phoenix",
         "aliases": [
             "Large Binocular Telescope",
