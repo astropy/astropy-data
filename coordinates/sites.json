@@ -29,7 +29,7 @@
     },
     "tona": {
         "source": "IRAF Observatory Database",
-        "elevation": 0,
+        "elevation": 2174,
         "name": "Observatorio Astronomico Nacional, Tonantzintla",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
