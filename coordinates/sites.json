@@ -10,7 +10,7 @@
         "longitude": -0.001475,
         "timezone": "Europe/London",
         "aliases": [
-            "example_site"
+            "ROG"
         ]
     },
     "mwo": {
@@ -80,7 +80,13 @@
         "longitude": -17.88,
         "timezone": "Atlantic/Canary",
         "aliases": [
-            "Roque de los Muchachos"
+            "Roque de los Muchachos",
+            "Isaac Newton group",
+            "ING",
+            "William Herschel Telescope",
+            "WHT",
+            "Grantecan",
+            "GTC"
         ]
     },
     "ctio": {
@@ -124,7 +130,8 @@
         "longitude": 117.5759,
         "timezone": "Asia/Shanghai",
         "aliases": [
-            "Beijing XingLong Observatory"
+            "Beijing XingLong Observatory",
+            "LAMOST"
         ]
     },
     "mcdonald": {
@@ -152,7 +159,8 @@
         "longitude": -110.73166666667,
         "timezone": "America/Phoenix",
         "aliases": [
-            "Catalina Observatory"
+            "Catalina Observatory",
+            "Mount Bigelow"
         ]
     },
     "mso": {
@@ -180,7 +188,9 @@
         "longitude": -70.7338,
         "timezone": "America/Santiago",
         "aliases": [
-            "La Silla Observatory"
+            "La Silla Observatory",
+            "NTT",
+            "ESO 3.6m"
         ]
     },
     "paranal": {
@@ -195,7 +205,12 @@
         "timezone": "America/Santiago",
         "aliases": [
             "Cerro Paranal",
-            "Paranal Observatory"
+            "Paranal Observatory",
+            "Very Large Telescope",
+            "VLT",
+            "VST",
+            "VISTA",
+            "NGST"
         ]
     },
     "cfht": {
@@ -507,9 +522,7 @@
         "elevation_unit": "meter",
         "longitude": -155.47199878889,
         "timezone": "Pacific/Honolulu",
-        "aliases": [
-            ""
-        ]
+        "aliases": []
     },
     "lbt": {
         "source": "LBT website",
@@ -597,9 +610,7 @@
         "elevation_unit": "meter",
         "longitude": 5.7133333333333,
         "timezone": "Europe/Paris",
-        "aliases": [
-            ""
-        ]
+        "aliases": []
     },
     "sirene": {
         "source": "SIRENE website",
@@ -611,9 +622,7 @@
         "elevation_unit": "meter",
         "longitude": 5.4869444444444,
         "timezone": "Europe/Paris",
-        "aliases": [
-            ""
-        ]
+        "aliases": []
     },
     "dct": {
         "source": "Site GPS on 20130708 UT as recorded in observatory wiki",
