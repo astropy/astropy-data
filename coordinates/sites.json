@@ -669,5 +669,146 @@
         "name": "Atacama Large Millimeter Array",
         "source": "https://almascience.eso.org/about-alma/alma-site",
         "timezone": "America/Santiago"
+    },
+    "elt": {
+        "aliases": [
+            "E-ELT"
+        ],
+        "elevation": 3060,
+        "elevation_unit": "meter",
+        "latitude": -24.5893,
+        "latitude_unit": "degree",
+        "longitude": -70.1916,
+        "longitude_unit": "degree",
+        "name": "European Extremely Large Telescope",
+        "timezone": "America/Santiago",
+        "source": "http://www.eso.org/sci/facilities/eelt/site/index.html"
+    },
+    "jodrell": {
+        "aliases": [
+            "Lovell Telescope"
+        ],
+        "elevation": 89,
+        "elevation_unit": "meter",
+        "latitude": 53.2368,
+        "latitude_unit": "degree",
+        "longitude": -2.3085,
+        "longitude_unit": "degree",
+        "name": "Jodrell Bank Observatory",
+        "timezone": "Europe/London",
+        "source": "Google maps"
+    },
+    "effelsberg": {
+        "aliases": [
+            ""
+        ],
+        "elevation": 328,
+        "elevation_unit": "meter",
+        "latitude": 50.5251,
+        "latitude_unit": "degree",
+        "longitude": 6.8831,
+        "longitude_unit": "degree",
+        "name": "Effelsberg 100m telescope",
+        "timezone": "Europe/Berlin",
+        "source": "Google maps"
+    },
+    "atca": {
+        "aliases": [
+            ""
+        ],
+        "elevation": 209,
+        "elevation_unit": "meter",
+        "latitude": -30.3128,
+        "latitude_unit": "degree",
+        "longitude": 149.565,
+        "longitude_unit": "degree",
+        "name": "Australia Telescope Compact Array",
+        "timezone": "Australia/Sydney",
+        "source": "Google maps"
+    },
+    "lmt": {
+        "aliases": [
+            ""
+        ],
+        "elevation": 4563,
+        "elevation_unit": "meter",
+        "latitude": 18.9862,
+        "latitude_unit": "degree",
+        "longitude": -97.3148,
+        "longitude_unit": "degree",
+        "name": "Large Millimeter Telescope",
+        "timezone": "America/Mexico_City",
+        "source": "Google maps"
+    },
+    "pdb": {
+        "aliases": [
+            ""
+        ],
+        "elevation": 2551,
+        "elevation_unit": "meter",
+        "latitude": 44.6342,
+        "latitude_unit": "degree",
+        "longitude": 5.908,
+        "longitude_unit": "degree",
+        "name": "Plateau de Bure Interferometer",
+        "timezone": "Europe/Paris",
+        "source": "Google maps"
+    },
+    "iram": {
+        "aliases": [
+            ""
+        ],
+        "elevation": 2843,
+        "elevation_unit": "meter",
+        "latitude": 37.0664,
+        "latitude_unit": "degree",
+        "longitude": -3.3924,
+        "longitude_unit": "degree",
+        "name": "IRAM 30m telescope",
+        "timezone": "Europe/Madrid",
+        "source": "Google maps"
+    },
+    "teide": {
+        "aliases": [
+            ""
+        ],
+        "elevation": 2390,
+        "elevation_unit": "meter",
+        "latitude": 28.3011,
+        "latitude_unit": "degree",
+        "longitude": -16.5107,
+        "longitude_unit": "degree",
+        "name": "Teide Observatory",
+        "timezone": "Atlantic/Canary",
+        "source": "http://www.iac.es, refined with Google maps"
+    },
+    "gbo": {
+        "aliases": [
+            "NRAO",
+            "Robert C. Byrd Telescope"
+        ],
+        "elevation": 806,
+        "elevation_unit": "meter",
+        "latitude": 38.4332,
+        "latitude_unit": "degree",
+        "longitude": -79.8397,
+        "longitude_unit": "degree",
+        "name": "Green Bank Observatory",
+        "timezone": "America/New_York",
+        "source": "Google maps"
+    },
+    "arecibo": {
+        "aliases": [
+            ""
+        ],
+        "elevation": 238,
+        "elevation_unit": "meter",
+        "latitude": 18.3442,
+        "latitude_unit": "degree",
+        "longitude": -66.7527,
+        "longitude_unit": "degree",
+        "name": "Arecibo Observatory",
+        "timezone": "America/Puerto_Rico",
+        "source": "Google maps"
     }
 }
