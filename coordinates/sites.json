@@ -671,5 +671,21 @@
         "aliases": [
              "TUG"
         ]
+    },
+    "gbt": {
+    "aliases": [
+        "Green Bank Telescope",
+        "GBT"
+    ],
+    "elevation": 0,
+    "elevation_unit": "meter",
+    "latitude": 38.433056,
+    "latitude_unit": "degree",
+    "longitude": -79.839722,
+    "longitude_unit": "degree",
+    "elevation": 807,
+    "elevation_unit": "meter",
+    "name": "gbt",
+    "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
     }
 }
