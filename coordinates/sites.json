@@ -491,7 +491,7 @@
         "latitude_unit": "degree",
         "latitude": 19.823801447222223,
         "elevation_unit": "meter",
-        "longitude": 155.4690467527778,
+        "longitude": -155.4690467527778,
         "timezone": "US/Aleutian",
         "aliases": [
              "gemn"
@@ -505,7 +505,7 @@
         "latitude_unit": "degree",
         "latitude": 19.826218316666665,
         "elevation_unit": "meter",
-        "longitude": 155.4719987888889,
+        "longitude": -155.4719987888889,
         "timezone": "US/Aleutian",
         "aliases": [
              ""
