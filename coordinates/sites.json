@@ -244,7 +244,7 @@
     "Palomar": {
         "source": "IRAF Observatory Database",
         "elevation": 1706,
-        "name": "The Hale Telescope",
+        "name": "Hale Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 33.356,
@@ -343,7 +343,7 @@
     "aao": {
         "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 1164,
-        "name": "Anglo-Australian Observatory",
+        "name": "Australian Astronomical Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": -31.277038888889,
@@ -642,7 +642,7 @@
         "latitude_unit": "degree",
         "longitude": -107.61828305556,
         "longitude_unit": "degree",
-        "name": "vla",
+        "name": "Very Large Array",
         "source": "wikipedia article, refined using Google Maps",
         "timezone": "America/Denver"
     },
@@ -657,7 +657,7 @@
         "latitude_unit": "degree",
         "longitude": -67.755,
         "longitude_unit": "degree",
-        "name": "alma",
+        "name": "Atacama Large Millimeter Array",
         "source": "https://almascience.eso.org/about-alma/alma-site",
         "timezone": "America/Santiago"
     },
@@ -686,7 +686,7 @@
         "latitude_unit": "degree",
         "longitude": -79.8397,
         "longitude_unit": "degree",
-        "name": "gbt",
+        "name": "Green Bank Observatory",
         "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation, refined using Google Maps",
         "timezone": "America/New_York"
     }
