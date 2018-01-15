@@ -35,7 +35,7 @@
         "latitude_unit": "degree",
         "latitude": 19.032777777778,
         "elevation_unit": "meter",
-        "longitude": 261.68611111111,
+        "longitude": -98.313888888889,
         "timezone": "America/Mexico_City",
         "aliases": [
             "Observatorio Astronomico Nacional, Tonantzintla"
@@ -49,7 +49,7 @@
         "latitude_unit": "degree",
         "latitude": 37.343333333333,
         "elevation_unit": "meter",
-        "longitude": 238.36333333333,
+        "longitude": -121.63666666667,
         "timezone": "America/Los_Angeles",
         "aliases": [
             "Lick Observatory"
@@ -63,7 +63,7 @@
         "latitude_unit": "degree",
         "latitude": 31.95,
         "elevation_unit": "meter",
-        "longitude": 248.38333333333,
+        "longitude": -111.61666666667,
         "timezone": "America/Phoenix",
         "aliases": [
             "Michigan-Dartmouth-MIT Observatory"
@@ -77,7 +77,7 @@
         "latitude_unit": "degree",
         "latitude": 28.758333333333,
         "elevation_unit": "meter",
-        "longitude": 342.12,
+        "longitude": -17.88,
         "timezone": "Atlantic/Canary",
         "aliases": [
             "Roque de los Muchachos"
@@ -91,7 +91,7 @@
         "latitude_unit": "degree",
         "latitude": -30.165277777778,
         "elevation_unit": "meter",
-        "longitude": 289.185,
+        "longitude": -70.815,
         "timezone": "America/Santiago",
         "aliases": [
             "Cerro Tololo Interamerican Observatory",
@@ -106,7 +106,7 @@
         "latitude_unit": "degree",
         "latitude": 32.78,
         "elevation_unit": "meter",
-        "longitude": 254.18,
+        "longitude": -105.82,
         "timezone": "America/Denver",
         "aliases": [
             "Apache Point Observatory",
@@ -135,7 +135,7 @@
         "latitude_unit": "degree",
         "latitude": 30.671666694444,
         "elevation_unit": "meter",
-        "longitude": 255.97833330556,
+        "longitude": -104.02166669444,
         "timezone": "America/Chicago",
         "aliases": [
             "McDonald Observatory"
@@ -149,7 +149,7 @@
         "latitude_unit": "degree",
         "latitude": 32.416666666667,
         "elevation_unit": "meter",
-        "longitude": 249.26833333333,
+        "longitude": -110.73166666667,
         "timezone": "America/Phoenix",
         "aliases": [
             "Catalina Observatory"
@@ -177,7 +177,7 @@
         "latitude_unit": "degree",
         "latitude": -29.256666666667,
         "elevation_unit": "meter",
-        "longitude": 289.27,
+        "longitude": -70.73,
         "timezone": "America/Santiago",
         "aliases": [
             "La Silla Observatory"
@@ -191,7 +191,7 @@
         "latitude_unit": "degree",
         "latitude": -24.6252,
         "elevation_unit": "meter",
-        "longitude": 289.597,
+        "longitude": -70.403,
         "timezone": "America/Santiago",
         "aliases": [
             "Cerro Paranal",
@@ -206,7 +206,7 @@
         "latitude_unit": "degree",
         "latitude": 19.826666666667,
         "elevation_unit": "meter",
-        "longitude": 204.52833333333,
+        "longitude": -155.47166666667,
         "timezone": "Pacific/Honolulu",
         "aliases": [
             "Canada-France-Hawaii Telescope"
@@ -220,7 +220,7 @@
         "latitude_unit": "degree",
         "latitude": 35.096666666667,
         "elevation_unit": "meter",
-        "longitude": 248.465,
+        "longitude": -111.535,
         "timezone": "America/Phoenix",
         "aliases": [
             "Lowell Observatory"
@@ -234,7 +234,7 @@
         "latitude_unit": "degree",
         "latitude": 19.828333333333,
         "elevation_unit": "meter",
-        "longitude": 204.52166666667,
+        "longitude": -155.47833333333,
         "timezone": "Pacific/Honolulu",
         "aliases": [
             "W. M. Keck Observatory",
@@ -249,7 +249,7 @@
         "latitude_unit": "degree",
         "latitude": 33.356,
         "elevation_unit": "meter",
-        "longitude": 243.137,
+        "longitude": -116.863,
         "timezone": "America/Los_Angeles",
         "aliases": [
             "Hale Telescope"
@@ -263,7 +263,7 @@
         "latitude_unit": "degree",
         "latitude": 31.688333333333,
         "elevation_unit": "meter",
-        "longitude": 249.115,
+        "longitude": -110.885,
         "timezone": "America/Phoenix",
         "aliases": [
             "Multiple Mirror Telescope"
@@ -277,7 +277,7 @@
         "latitude_unit": "degree",
         "latitude": 48.521666666667,
         "elevation_unit": "meter",
-        "longitude": 236.58333333333,
+        "longitude": -123.41666666667,
         "timezone": "America/Vancouver",
         "aliases": [
             "Dominion Astrophysical Observatory"
@@ -291,7 +291,7 @@
         "latitude_unit": "degree",
         "latitude": 40.921666666667,
         "elevation_unit": "meter",
-        "longitude": 281.995,
+        "longitude": -78.005,
         "timezone": "America/New_York",
         "aliases": [
             "Black Moshannon Observatory"
@@ -319,7 +319,7 @@
         "latitude_unit": "degree",
         "latitude": -29.003333333333,
         "elevation_unit": "meter",
-        "longitude": 289.29833333333,
+        "longitude": -70.701666666667,
         "timezone": "America/Santiago",
         "aliases": [
             "Las Campanas Observatory"
@@ -333,7 +333,7 @@
         "latitude_unit": "degree",
         "latitude": 31.963333333333,
         "elevation_unit": "meter",
-        "longitude": 248.4,
+        "longitude": -111.6,
         "timezone": "America/Phoenix",
         "aliases": [
             "Kitt Peak",
@@ -362,7 +362,7 @@
         "latitude_unit": "degree",
         "latitude": 31.680944444444,
         "elevation_unit": "meter",
-        "longitude": 249.1225,
+        "longitude": -110.8775,
         "timezone": "America/Phoenix",
         "aliases": [
             "Whipple",
@@ -391,7 +391,7 @@
         "latitude_unit": "degree",
         "latitude": 19.825555555556,
         "elevation_unit": "meter",
-        "longitude": 204.52388888889,
+        "longitude": -155.47611111111,
         "timezone": "Pacific/Honolulu",
         "aliases": [
             "Subaru Telescope"
@@ -419,7 +419,7 @@
         "latitude_unit": "degree",
         "latitude": 8.79,
         "elevation_unit": "meter",
-        "longitude": 289.13333333333,
+        "longitude": -70.866666666667,
         "timezone": "America/Caracas",
         "aliases": [
             "National Observatory of Venezuela"
@@ -433,7 +433,7 @@
         "latitude_unit": "degree",
         "latitude": 31.029166666667,
         "elevation_unit": "meter",
-        "longitude": 244.51305555556,
+        "longitude": -115.48694444444,
         "timezone": "America/Tijuana",
         "aliases": [
             "Observatorio Astronomico Nacional, San Pedro Martir"
@@ -461,7 +461,7 @@
         "latitude_unit": "degree",
         "latitude": 20.71552,
         "elevation_unit": "meter",
-        "longitude": 203.831,
+        "longitude": -156.169,
         "timezone": "Pacific/Honolulu",
         "aliases": [
             "Haleakala Observatories"
@@ -475,7 +475,7 @@
         "latitude_unit": "degree",
         "latitude": -30.240741666667,
         "elevation_unit": "meter",
-        "longitude": 289.26331666667,
+        "longitude": -70.736683333333,
         "timezone": "America/Santiago",
         "aliases": [
             "Cerro Pachon",
@@ -519,7 +519,7 @@
         "latitude_unit": "degree",
         "latitude": 32.7016,
         "elevation_unit": "meter",
-        "longitude": 250.1281,
+        "longitude": -109.8719,
         "timezone": "America/Phoenix",
         "aliases": [
             "Large Binocular Telescope",
@@ -623,7 +623,7 @@
         "latitude_unit": "degree",
         "latitude": 34.744305,
         "elevation_unit": "meter",
-        "longitude": 248.577485,
+        "longitude": -111.422515,
         "aliases": [
             "DCT",
             "Discovery Channel Telescope",
