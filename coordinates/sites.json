@@ -8,9 +8,9 @@
         "latitude": 51.477811,
         "elevation_unit": "meter",
         "longitude": -0.001475,
-        "timezone": "Europe/London",
+        "timezone": "Greenwich",
         "aliases": [
-            "ROG"
+            "example_site"
         ]
     },
     "mwo": {
@@ -19,9 +19,9 @@
         "name": "Mount Wilson Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 34.2259,
+        "latitude": 34.222579805555554,
         "elevation_unit": "meter",
-        "longitude": -118.057,
+        "longitude": -118.06168400000001,
         "timezone": "America/Los_Angeles",
         "aliases": [
             "CHARA"
@@ -29,14 +29,14 @@
     },
     "tona": {
         "source": "IRAF Observatory Database",
-        "elevation": 2174,
+        "elevation": 0,
         "name": "Observatorio Astronomico Nacional, Tonantzintla",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 19.032777777778,
+        "latitude": 19.032777777777778,
         "elevation_unit": "meter",
-        "longitude": -98.313888888889,
-        "timezone": "America/Mexico_City",
+        "longitude": 261.68611111111113,
+        "timezone": "US/Central",
         "aliases": [
             "Observatorio Astronomico Nacional, Tonantzintla"
         ]
@@ -47,10 +47,10 @@
         "name": "Lick Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 37.343333333333,
+        "latitude": 37.343333333333334,
         "elevation_unit": "meter",
-        "longitude": -121.63666666667,
-        "timezone": "America/Los_Angeles",
+        "longitude": 238.36333333333332,
+        "timezone": "US/Pacific",
         "aliases": [
             "Lick Observatory"
         ]
@@ -63,8 +63,8 @@
         "latitude_unit": "degree",
         "latitude": 31.95,
         "elevation_unit": "meter",
-        "longitude": -111.61666666667,
-        "timezone": "America/Phoenix",
+        "longitude": 248.38333333333333,
+        "timezone": "US/Mountain",
         "aliases": [
             "Michigan-Dartmouth-MIT Observatory"
         ]
@@ -75,18 +75,12 @@
         "name": "Roque de los Muchachos, La Palma",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 28.758333333333,
+        "latitude": 28.758333333333333,
         "elevation_unit": "meter",
-        "longitude": -17.88,
+        "longitude": 342.12,
         "timezone": "Atlantic/Canary",
         "aliases": [
-            "Roque de los Muchachos",
-            "Isaac Newton group",
-            "ING",
-            "William Herschel Telescope",
-            "WHT",
-            "Grantecan",
-            "GTC"
+            "Roque de los Muchachos"
         ]
     },
     "ctio": {
@@ -95,10 +89,10 @@
         "name": "Cerro Tololo Interamerican Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -30.169,
+        "latitude": -30.165277777777778,
         "elevation_unit": "meter",
-        "longitude": -70.8062,
-        "timezone": "America/Santiago",
+        "longitude": 289.185,
+        "timezone": "Chile/Continental",
         "aliases": [
             "Cerro Tololo Interamerican Observatory",
             "Cerro Tololo"
@@ -112,8 +106,8 @@
         "latitude_unit": "degree",
         "latitude": 32.78,
         "elevation_unit": "meter",
-        "longitude": -105.82,
-        "timezone": "America/Denver",
+        "longitude": 254.17999999999998,
+        "timezone": "US/Mountain",
         "aliases": [
             "Apache Point Observatory",
             "Apache Point"
@@ -125,13 +119,12 @@
         "name": "Beijing XingLong Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 40.3957,
+        "latitude": 40.39333333333333,
         "elevation_unit": "meter",
-        "longitude": 117.5759,
+        "longitude": 117.575,
         "timezone": "Asia/Shanghai",
         "aliases": [
-            "Beijing XingLong Observatory",
-            "LAMOST"
+            "Beijing XingLong Observatory"
         ]
     },
     "mcdonald": {
@@ -140,10 +133,10 @@
         "name": "McDonald Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 30.671666694444,
+        "latitude": 30.671666694444447,
         "elevation_unit": "meter",
-        "longitude": -104.02166669444,
-        "timezone": "America/Chicago",
+        "longitude": 255.97833330555557,
+        "timezone": "US/Central",
         "aliases": [
             "McDonald Observatory"
         ]
@@ -154,13 +147,12 @@
         "name": "Catalina Observatory: 61 inch telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 32.416666666667,
+        "latitude": 32.416666666666664,
         "elevation_unit": "meter",
-        "longitude": -110.73166666667,
-        "timezone": "America/Phoenix",
+        "longitude": 249.26833333333335,
+        "timezone": "US/Mountain",
         "aliases": [
-            "Catalina Observatory",
-            "Mount Bigelow"
+            "Catalina Observatory"
         ]
     },
     "mso": {
@@ -171,7 +163,7 @@
         "latitude_unit": "degree",
         "latitude": -35.32065,
         "elevation_unit": "meter",
-        "longitude": 149.02433333333,
+        "longitude": 149.02433333333335,
         "timezone": "Australia/Sydney",
         "aliases": [
             "Mt. Stromlo Observatory"
@@ -183,14 +175,12 @@
         "name": "La Silla Observatory (ESO)",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -29.259,
+        "latitude": -29.256666666666668,
         "elevation_unit": "meter",
-        "longitude": -70.7338,
-        "timezone": "America/Santiago",
+        "longitude": 289.27,
+        "timezone": "Chile/Continental",
         "aliases": [
-            "La Silla Observatory",
-            "NTT",
-            "ESO 3.6m"
+            "La Silla Observatory"
         ]
     },
     "paranal": {
@@ -199,18 +189,13 @@
         "name": "Paranal Observatory (ESO)",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -24.6275,
+        "latitude": -24.6252,
         "elevation_unit": "meter",
-        "longitude": -70.4045,
-        "timezone": "America/Santiago",
+        "longitude": 289.597,
+        "timezone": "Chile/Continental",
         "aliases": [
             "Cerro Paranal",
-            "Paranal Observatory",
-            "Very Large Telescope",
-            "VLT",
-            "VST",
-            "VISTA",
-            "NGST"
+            "Paranal Observatory"
         ]
     },
     "cfht": {
@@ -219,10 +204,10 @@
         "name": "Canada-France-Hawaii Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 19.826666666667,
+        "latitude": 19.826666666666668,
         "elevation_unit": "meter",
-        "longitude": -155.47166666667,
-        "timezone": "Pacific/Honolulu",
+        "longitude": 204.52833333333334,
+        "timezone": "US/Aleutian",
         "aliases": [
             "Canada-France-Hawaii Telescope"
         ]
@@ -233,10 +218,10 @@
         "name": "Lowell Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 35.096666666667,
+        "latitude": 35.09666666666667,
         "elevation_unit": "meter",
-        "longitude": -111.535,
-        "timezone": "America/Phoenix",
+        "longitude": 248.46499999999997,
+        "timezone": "US/Mountain",
         "aliases": [
             "Lowell Observatory"
         ]
@@ -247,10 +232,10 @@
         "name": "W. M. Keck Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 19.828333333333,
+        "latitude": 19.828333333333333,
         "elevation_unit": "meter",
-        "longitude": -155.47833333333,
-        "timezone": "Pacific/Honolulu",
+        "longitude": 204.52166666666668,
+        "timezone": "US/Aleutian",
         "aliases": [
             "W. M. Keck Observatory",
             "Keck Observatory"
@@ -259,13 +244,13 @@
     "Palomar": {
         "source": "IRAF Observatory Database",
         "elevation": 1706,
-        "name": "Hale Telescope",
+        "name": "The Hale Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 33.356,
         "elevation_unit": "meter",
-        "longitude": -116.863,
-        "timezone": "America/Los_Angeles",
+        "longitude": 243.137,
+        "timezone": "US/Pacific",
         "aliases": [
             "Hale Telescope"
         ]
@@ -276,10 +261,10 @@
         "name": "Multiple Mirror Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 31.688333333333,
+        "latitude": 31.688333333333333,
         "elevation_unit": "meter",
-        "longitude": -110.885,
-        "timezone": "America/Phoenix",
+        "longitude": 249.11499999999998,
+        "timezone": "US/Mountain",
         "aliases": [
             "Multiple Mirror Telescope"
         ]
@@ -290,10 +275,10 @@
         "name": "Dominion Astrophysical Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 48.521666666667,
+        "latitude": 48.52166666666667,
         "elevation_unit": "meter",
-        "longitude": -123.41666666667,
-        "timezone": "America/Vancouver",
+        "longitude": 236.58333333333334,
+        "timezone": "US/Pacific",
         "aliases": [
             "Dominion Astrophysical Observatory"
         ]
@@ -304,10 +289,10 @@
         "name": "Black Moshannon Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 40.921666666667,
+        "latitude": 40.92166666666667,
         "elevation_unit": "meter",
-        "longitude": -78.005,
-        "timezone": "America/New_York",
+        "longitude": 281.995,
+        "timezone": "US/Eastern",
         "aliases": [
             "Black Moshannon Observatory"
         ]
@@ -318,9 +303,9 @@
         "name": "Siding Spring Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -31.273361111111,
+        "latitude": -31.27336111111111,
         "elevation_unit": "meter",
-        "longitude": 149.06119444444,
+        "longitude": 149.06119444444445,
         "timezone": "Australia/Sydney",
         "aliases": [
             "Siding Spring Observatory"
@@ -332,10 +317,10 @@
         "name": "Las Campanas Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -29.0142,
+        "latitude": -29.003333333333334,
         "elevation_unit": "meter",
-        "longitude": -70.6925,
-        "timezone": "America/Santiago",
+        "longitude": 289.29833333333335,
+        "timezone": "Chile/Continental",
         "aliases": [
             "Las Campanas Observatory"
         ]
@@ -346,10 +331,10 @@
         "name": "Kitt Peak National Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 31.963333333333,
+        "latitude": 31.96333333333333,
         "elevation_unit": "meter",
-        "longitude": -111.6,
-        "timezone": "America/Phoenix",
+        "longitude": 248.4,
+        "timezone": "US/Mountain",
         "aliases": [
             "Kitt Peak",
             "Kitt Peak National Observatory"
@@ -358,12 +343,12 @@
     "aao": {
         "source": "IRAF Observatory Database",
         "elevation": 1164,
-        "name": "Australian Astronomical Observatory",
+        "name": "Anglo-Australian Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -31.277038888889,
+        "latitude": -31.27703888888889,
         "elevation_unit": "meter",
-        "longitude": 149.06608611111,
+        "longitude": 149.06608611111113,
         "timezone": "Australia/Sydney",
         "aliases": [
             "Anglo-Australian Observatory"
@@ -375,10 +360,10 @@
         "name": "Whipple Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 31.680944444444,
+        "latitude": 31.680944444444446,
         "elevation_unit": "meter",
-        "longitude": -110.8775,
-        "timezone": "America/Phoenix",
+        "longitude": 249.1225,
+        "timezone": "US/Mountain",
         "aliases": [
             "Whipple",
             "Whipple Observatory"
@@ -390,10 +375,10 @@
         "name": "Mt. Ekar 182 cm. Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 45.848588888889,
+        "latitude": 45.84858888888889,
         "elevation_unit": "meter",
-        "longitude": 11.581133333333,
-        "timezone": "Europe/Rome",
+        "longitude": 11.581133333333334,
+        "timezone": "CET",
         "aliases": [
             "Mt. Ekar 182 cm. Telescope"
         ]
@@ -404,10 +389,10 @@
         "name": "Subaru Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 19.825555555556,
+        "latitude": 19.825555555555557,
         "elevation_unit": "meter",
-        "longitude": -155.47611111111,
-        "timezone": "Pacific/Honolulu",
+        "longitude": 204.5238888888889,
+        "timezone": "US/Aleutian",
         "aliases": [
             "Subaru Telescope"
         ]
@@ -434,7 +419,7 @@
         "latitude_unit": "degree",
         "latitude": 8.79,
         "elevation_unit": "meter",
-        "longitude": -70.866666666667,
+        "longitude": 289.1333333333333,
         "timezone": "America/Caracas",
         "aliases": [
             "National Observatory of Venezuela"
@@ -446,10 +431,10 @@
         "name": "Observatorio Astronomico Nacional, San Pedro Martir",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 31.029166666667,
+        "latitude": 31.029166666666665,
         "elevation_unit": "meter",
-        "longitude": -115.48694444444,
-        "timezone": "America/Tijuana",
+        "longitude": 244.51305555555555,
+        "timezone": "US/Pacific",
         "aliases": [
             "Observatorio Astronomico Nacional, San Pedro Martir"
         ]
@@ -463,7 +448,7 @@
         "latitude": 46.9528,
         "latitude_unit": "degree",
         "longitude": -120.7278,
-        "timezone": "America/Los_Angeles",
+        "timezone": "US/Pacific",
         "longitude_unit": "degree",
         "name": "Manastash Ridge Observatory",
         "source": "MRO website"
@@ -476,8 +461,8 @@
         "latitude_unit": "degree",
         "latitude": 20.71552,
         "elevation_unit": "meter",
-        "longitude": -156.169,
-        "timezone": "Pacific/Honolulu",
+        "longitude": 203.831,
+        "timezone": "US/Aleutian",
         "aliases": [
             "Haleakala Observatories"
         ]
@@ -488,14 +473,14 @@
         "name": "Gemini South",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -30.240741666667,
+        "latitude": -30.24074166666667,
         "elevation_unit": "meter",
-        "longitude": -70.736683333333,
-        "timezone": "America/Santiago",
+        "longitude": 289.2633166666667,
+        "timezone": "Chile/Continental",
         "aliases": [
-            "Cerro Pachon",
-            "Gemini South",
-            "gems"
+             "Cerro Pachon",
+             "Gemini South",
+             "gems"
         ]
     },
     "gemini_north": {
@@ -504,12 +489,12 @@
         "name": "Gemini North",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 19.823801447222,
+        "latitude": 19.823801447222223,
         "elevation_unit": "meter",
-        "longitude": -155.46904675278,
-        "timezone": "Pacific/Honolulu",
+        "longitude": -155.4690467527778,
+        "timezone": "US/Aleutian",
         "aliases": [
-            "gemn"
+             "gemn"
         ]
     },
     "irtf": {
@@ -518,11 +503,13 @@
         "name": "NASA Infrared Telescope Facility",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 19.826218316667,
+        "latitude": 19.826218316666665,
         "elevation_unit": "meter",
-        "longitude": -155.47199878889,
-        "timezone": "Pacific/Honolulu",
-        "aliases": []
+        "longitude": -155.4719987888889,
+        "timezone": "US/Aleutian",
+        "aliases": [
+             ""
+        ]
     },
     "lbt": {
         "source": "LBT website",
@@ -532,12 +519,12 @@
         "latitude_unit": "degree",
         "latitude": 32.7016,
         "elevation_unit": "meter",
-        "longitude": -109.8887,
-        "timezone": "America/Phoenix",
+        "longitude": 250.1281,
+        "timezone": "US/Mountain",
         "aliases": [
-            "Large Binocular Telescope",
-            "Mount Graham International Observatory",
-            "Mt Graham"
+             "Large Binocular Telescope",
+             "Mount Graham International Observatory",
+             "Mt Graham"
         ]
     },
     "salt": {
@@ -551,53 +538,53 @@
         "longitude": 20.810808,
         "timezone": "Africa/Johannesburg",
         "aliases": [
-            "SALT",
-            "Southern African Large Telescope",
-            "SAAO",
-            "Sutherland"
+             "SALT",
+             "Southern African Large Telescope",
+             "SAAO",
+             "Sutherland"
         ]
     },
     "srt": {
         "source": "SRT website & google maps",
-        "elevation": 650,
+        "elevation": 650.0,
         "name": "Sardinia Radio Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 39.49304,
+        "latitude": 39.493040,
         "elevation_unit": "meter",
         "longitude": 9.24516,
-        "timezone": "Europe/Rome",
+        "timezone": "CET",
         "aliases": [
-            "SRT"
+             "SRT"
         ]
     },
     "medicina": {
         "source": "Medicina Radio Telescope website & google maps",
-        "elevation": 25,
+        "elevation": 25.0,
         "name": "Medicina Radio Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 44.5205,
         "elevation_unit": "meter",
         "longitude": 11.6469,
-        "timezone": "Europe/Rome",
+        "timezone": "CET",
         "aliases": [
-            "Medicina Dish",
-            "Medicina"
+             "Medicina Dish",
+             "Medicina"
         ]
     },
     "noto": {
         "source": "Noto Radio Telescope website & google maps",
-        "elevation": 30,
+        "elevation": 30.0,
         "name": "Noto Radio Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 36.87585,
         "elevation_unit": "meter",
         "longitude": 14.9889,
-        "timezone": "Europe/Rome",
+        "timezone": "CET",
         "aliases": [
-            "Noto"
+             "Noto"
         ]
     },
     "ohp": {
@@ -606,11 +593,13 @@
         "name": "Observatoire de Haute Provence",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 43.930833333333,
+        "latitude": 43.93083333333333,
         "elevation_unit": "meter",
-        "longitude": 5.7133333333333,
-        "timezone": "Europe/Paris",
-        "aliases": []
+        "longitude": 5.713333333333333,
+        "timezone": "CET",
+        "aliases": [
+             ""
+        ]
     },
     "sirene": {
         "source": "SIRENE website",
@@ -618,27 +607,28 @@
         "name": "Observatoire SIRENE",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 44,
+        "latitude": 44.0,
         "elevation_unit": "meter",
-        "longitude": 5.4869444444444,
-        "timezone": "Europe/Paris",
-        "aliases": []
+        "longitude": 5.486944444444444,
+        "timezone": "CET",
+        "aliases": [
+             ""
+        ]
     },
     "dct": {
         "source": "Site GPS on 20130708 UT as recorded in observatory wiki",
-        "elevation": 2337,
+        "elevation": 2337.0,
         "name": "Discovery Channel Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 34.744305,
         "elevation_unit": "meter",
-        "longitude": -111.422515,
+        "longitude": 248.577485,
         "aliases": [
-            "DCT",
-            "Discovery Channel Telescope",
-            "Happy Jack"
-        ],
-        "timezone": "America/Phoenix"
+             "DCT",
+             "Discovery Channel Telescope",
+             "Happy Jack"
+        ]
     },
     "vla": {
         "aliases": [
@@ -647,13 +637,12 @@
         ],
         "elevation": 2124,
         "elevation_unit": "meter",
-        "latitude": 34.078749166667,
+        "latitude": 34.07874916666667,
         "latitude_unit": "degree",
-        "longitude": -107.61828305556,
+        "longitude": -107.61828305555555,
         "longitude_unit": "degree",
-        "name": "Very Large Array",
-        "source": "wikipedia article",
-        "timezone": "America/Denver"
+        "name": "vla",
+        "source": "wikipedia article"
     },
     "alma": {
         "aliases": [
@@ -666,149 +655,37 @@
         "latitude_unit": "degree",
         "longitude": -67.755,
         "longitude_unit": "degree",
-        "name": "Atacama Large Millimeter Array",
-        "source": "https://almascience.eso.org/about-alma/alma-site",
-        "timezone": "America/Santiago"
+        "name": "alma",
+        "source": "https://almascience.eso.org/about-alma/alma-site"
     },
-    "elt": {
-        "aliases": [
-            "E-ELT"
-        ],
-        "elevation": 3060,
-        "elevation_unit": "meter",
-        "latitude": -24.5893,
-        "latitude_unit": "degree",
-        "longitude": -70.1916,
+    "tug": {
+        "source": "TUG Website: http://www.tug.tubitak.gov.tr/gozlemevi.php",
+        "elevation": 2500,
+        "name": "TÜBİTAK National Observatory",
         "longitude_unit": "degree",
-        "name": "European Extremely Large Telescope",
-        "timezone": "America/Santiago",
-        "source": "http://www.eso.org/sci/facilities/eelt/site/index.html"
+        "latitude_unit": "degree",
+        "latitude": 36.824166,
+        "elevation_unit": "meter",
+        "longitude": 30.335555,
+        "timezone": "Europe/Istanbul",
+        "aliases": [
+             "TUG"
+        ]
     },
-    "jodrell": {
-        "aliases": [
-            "Lovell Telescope"
-        ],
-        "elevation": 89,
-        "elevation_unit": "meter",
-        "latitude": 53.2368,
-        "latitude_unit": "degree",
-        "longitude": -2.3085,
-        "longitude_unit": "degree",
-        "name": "Jodrell Bank Observatory",
-        "timezone": "Europe/London",
-        "source": "Google maps"
-    },
-    "effelsberg": {
-        "aliases": [
-            ""
-        ],
-        "elevation": 328,
-        "elevation_unit": "meter",
-        "latitude": 50.5251,
-        "latitude_unit": "degree",
-        "longitude": 6.8831,
-        "longitude_unit": "degree",
-        "name": "Effelsberg 100m telescope",
-        "timezone": "Europe/Berlin",
-        "source": "Google maps"
-    },
-    "atca": {
-        "aliases": [
-            ""
-        ],
-        "elevation": 209,
-        "elevation_unit": "meter",
-        "latitude": -30.3128,
-        "latitude_unit": "degree",
-        "longitude": 149.565,
-        "longitude_unit": "degree",
-        "name": "Australia Telescope Compact Array",
-        "timezone": "Australia/Sydney",
-        "source": "Google maps"
-    },
-    "lmt": {
-        "aliases": [
-            ""
-        ],
-        "elevation": 4563,
-        "elevation_unit": "meter",
-        "latitude": 18.9862,
-        "latitude_unit": "degree",
-        "longitude": -97.3148,
-        "longitude_unit": "degree",
-        "name": "Large Millimeter Telescope",
-        "timezone": "America/Mexico_City",
-        "source": "Google maps"
-    },
-    "pdb": {
-        "aliases": [
-            ""
-        ],
-        "elevation": 2551,
-        "elevation_unit": "meter",
-        "latitude": 44.6342,
-        "latitude_unit": "degree",
-        "longitude": 5.908,
-        "longitude_unit": "degree",
-        "name": "Plateau de Bure Interferometer",
-        "timezone": "Europe/Paris",
-        "source": "Google maps"
-    },
-    "iram": {
-        "aliases": [
-            ""
-        ],
-        "elevation": 2843,
-        "elevation_unit": "meter",
-        "latitude": 37.0664,
-        "latitude_unit": "degree",
-        "longitude": -3.3924,
-        "longitude_unit": "degree",
-        "name": "IRAM 30m telescope",
-        "timezone": "Europe/Madrid",
-        "source": "Google maps"
-    },
-    "teide": {
-        "aliases": [
-            ""
-        ],
-        "elevation": 2390,
-        "elevation_unit": "meter",
-        "latitude": 28.3011,
-        "latitude_unit": "degree",
-        "longitude": -16.5107,
-        "longitude_unit": "degree",
-        "name": "Teide Observatory",
-        "timezone": "Atlantic/Canary",
-        "source": "http://www.iac.es, refined with Google maps"
-    },
-    "gbo": {
-        "aliases": [
-            "NRAO",
-            "Robert C. Byrd Telescope"
-        ],
-        "elevation": 806,
-        "elevation_unit": "meter",
-        "latitude": 38.4332,
-        "latitude_unit": "degree",
-        "longitude": -79.8397,
-        "longitude_unit": "degree",
-        "name": "Green Bank Observatory",
-        "timezone": "America/New_York",
-        "source": "Google maps"
-    },
-    "arecibo": {
-        "aliases": [
-            ""
-        ],
-        "elevation": 238,
-        "elevation_unit": "meter",
-        "latitude": 18.3442,
-        "latitude_unit": "degree",
-        "longitude": -66.7527,
-        "longitude_unit": "degree",
-        "name": "Arecibo Observatory",
-        "timezone": "America/Puerto_Rico",
-        "source": "Google maps"
+    "gbt": {
+    "aliases": [
+        "Green Bank Telescope",
+        "GBT"
+    ],
+    "elevation": 0,
+    "elevation_unit": "meter",
+    "latitude": 38.433056,
+    "latitude_unit": "degree",
+    "longitude": -79.839722,
+    "longitude_unit": "degree",
+    "elevation": 807,
+    "elevation_unit": "meter",
+    "name": "gbt",
+    "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
     }
 }
