@@ -14,21 +14,21 @@
         ]
     },
     "mwo": {
-        "source": "CHARA website",
+        "source": "CHARA website, refined using Google Maps",
         "elevation": 1742,
         "name": "Mount Wilson Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 34.222579805556,
+        "latitude": 34.2259,
         "elevation_unit": "meter",
-        "longitude": -118.061684,
+        "longitude": -118.057,
         "timezone": "America/Los_Angeles",
         "aliases": [
             "CHARA"
         ]
     },
     "tona": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 0,
         "name": "Observatorio Astronomico Nacional, Tonantzintla",
         "longitude_unit": "degree",
@@ -42,7 +42,7 @@
         ]
     },
     "lick": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 1290,
         "name": "Lick Observatory",
         "longitude_unit": "degree",
@@ -56,7 +56,7 @@
         ]
     },
     "mdm": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 1938,
         "name": "Michigan-Dartmouth-MIT Observatory",
         "longitude_unit": "degree",
@@ -70,7 +70,7 @@
         ]
     },
     "lapalma": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 2327,
         "name": "Roque de los Muchachos, La Palma",
         "longitude_unit": "degree",
@@ -84,14 +84,14 @@
         ]
     },
     "ctio": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 2215,
         "name": "Cerro Tololo Interamerican Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -30.165277777778,
+        "latitude": -30.169,
         "elevation_unit": "meter",
-        "longitude": -70.815,
+        "longitude": -70.8062,
         "timezone": "America/Santiago",
         "aliases": [
             "Cerro Tololo Interamerican Observatory",
@@ -99,7 +99,7 @@
         ]
     },
     "apo": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 2798,
         "name": "Apache Point Observatory",
         "longitude_unit": "degree",
@@ -114,21 +114,21 @@
         ]
     },
     "BAO": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 950,
         "name": "Beijing XingLong Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 40.393333333333,
+        "latitude": 40.3957,
         "elevation_unit": "meter",
-        "longitude": 117.575,
+        "longitude": 117.5759,
         "timezone": "Asia/Shanghai",
         "aliases": [
             "Beijing XingLong Observatory"
         ]
     },
     "mcdonald": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 2075,
         "name": "McDonald Observatory",
         "longitude_unit": "degree",
@@ -142,7 +142,7 @@
         ]
     },
     "mtbigelow": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 2510,
         "name": "Catalina Observatory: 61 inch telescope",
         "longitude_unit": "degree",
@@ -156,7 +156,7 @@
         ]
     },
     "mso": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 767,
         "name": "Mt. Stromlo Observatory",
         "longitude_unit": "degree",
@@ -170,28 +170,28 @@
         ]
     },
     "lasilla": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 2347,
         "name": "La Silla Observatory (ESO)",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -29.256666666667,
+        "latitude": -29.259,
         "elevation_unit": "meter",
-        "longitude": -70.73,
+        "longitude": -70.7338,
         "timezone": "America/Santiago",
         "aliases": [
             "La Silla Observatory"
         ]
     },
     "paranal": {
-        "source": "ESO webpage",
+        "source": "ESO webpage, refined using Google Maps",
         "elevation": 2635,
         "name": "Paranal Observatory (ESO)",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -24.6252,
+        "latitude": -24.6275,
         "elevation_unit": "meter",
-        "longitude": -70.403,
+        "longitude": -70.4045,
         "timezone": "America/Santiago",
         "aliases": [
             "Cerro Paranal",
@@ -199,7 +199,7 @@
         ]
     },
     "cfht": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 4215,
         "name": "Canada-France-Hawaii Telescope",
         "longitude_unit": "degree",
@@ -213,7 +213,7 @@
         ]
     },
     "lowell": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 2198,
         "name": "Lowell Observatory",
         "longitude_unit": "degree",
@@ -227,7 +227,7 @@
         ]
     },
     "keck": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 4160,
         "name": "W. M. Keck Observatory",
         "longitude_unit": "degree",
@@ -256,7 +256,7 @@
         ]
     },
     "mmt": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 2608,
         "name": "Multiple Mirror Telescope",
         "longitude_unit": "degree",
@@ -270,7 +270,7 @@
         ]
     },
     "dao": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 229,
         "name": "Dominion Astrophysical Observatory",
         "longitude_unit": "degree",
@@ -284,7 +284,7 @@
         ]
     },
     "bmo": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 738,
         "name": "Black Moshannon Observatory",
         "longitude_unit": "degree",
@@ -298,7 +298,7 @@
         ]
     },
     "sso": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 1149,
         "name": "Siding Spring Observatory",
         "longitude_unit": "degree",
@@ -312,21 +312,21 @@
         ]
     },
     "lco": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 2282,
         "name": "Las Campanas Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -29.003333333333,
+        "latitude": -29.0142,
         "elevation_unit": "meter",
-        "longitude": -70.701666666667,
+        "longitude": -70.6925,
         "timezone": "America/Santiago",
         "aliases": [
             "Las Campanas Observatory"
         ]
     },
     "kpno": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 2120,
         "name": "Kitt Peak National Observatory",
         "longitude_unit": "degree",
@@ -341,7 +341,7 @@
         ]
     },
     "aao": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 1164,
         "name": "Anglo-Australian Observatory",
         "longitude_unit": "degree",
@@ -355,7 +355,7 @@
         ]
     },
     "flwo": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 2320,
         "name": "Whipple Observatory",
         "longitude_unit": "degree",
@@ -370,7 +370,7 @@
         ]
     },
     "ekar": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 1413,
         "name": "Mt. Ekar 182 cm. Telescope",
         "longitude_unit": "degree",
@@ -384,7 +384,7 @@
         ]
     },
     "Subaru": {
-        "source": "Subaru Telescope website (August 2015)",
+        "source": "Subaru Telescope website (August 2015), refined using Google Maps",
         "elevation": 4139,
         "name": "Subaru Telescope",
         "longitude_unit": "degree",
@@ -412,7 +412,7 @@
         ]
     },
     "NOV": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 3610,
         "name": "National Observatory of Venezuela",
         "longitude_unit": "degree",
@@ -426,14 +426,14 @@
         ]
     },
     "spm": {
-        "source": "IRAF Observatory Database",
+        "source": "IRAF Observatory Database, refined using Google Maps",
         "elevation": 2830,
         "name": "Observatorio Astronomico Nacional, San Pedro Martir",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 31.029166666667,
+        "latitude": 31.044333,
         "elevation_unit": "meter",
-        "longitude": -115.48694444444,
+        "longitude": -115.46375,
         "timezone": "America/Tijuana",
         "aliases": [
             "Observatorio Astronomico Nacional, San Pedro Martir"
@@ -468,7 +468,7 @@
         ]
     },
     "gemini_south": {
-        "source": "CTIO Website",
+        "source": "CTIO Website, refined using Google Maps",
         "elevation": 2750,
         "name": "Gemini South",
         "longitude_unit": "degree",
@@ -484,7 +484,7 @@
         ]
     },
     "gemini_north": {
-        "source": "CTIO Website",
+        "source": "CTIO Website, refined using Google Maps",
         "elevation": 4213,
         "name": "Gemini North",
         "longitude_unit": "degree",
@@ -498,7 +498,7 @@
         ]
     },
     "irtf": {
-        "source": "IRTF Website",
+        "source": "IRTF Website, refined using Google Maps",
         "elevation": 4168,
         "name": "NASA Infrared Telescope Facility",
         "longitude_unit": "degree",
@@ -512,14 +512,14 @@
         ]
     },
     "lbt": {
-        "source": "LBT website",
+        "source": "LBT website, refined using Google Maps",
         "elevation": 2902,
         "name": "Large Binocular Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 32.7016,
         "elevation_unit": "meter",
-        "longitude": -109.8719,
+        "longitude": -109.8887,
         "timezone": "America/Phoenix",
         "aliases": [
             "Large Binocular Telescope",
@@ -588,7 +588,7 @@
         ]
     },
     "ohp": {
-        "source": "OHP website",
+        "source": "OHP website, refined using Google Maps",
         "elevation": 650,
         "name": "Observatoire de Haute Provence",
         "longitude_unit": "degree",
@@ -602,7 +602,7 @@
         ]
     },
     "sirene": {
-        "source": "SIRENE website",
+        "source": "SIRENE website, refined using Google Maps",
         "elevation": 1100,
         "name": "Observatoire SIRENE",
         "longitude_unit": "degree",
@@ -643,7 +643,7 @@
         "longitude": -107.61828305556,
         "longitude_unit": "degree",
         "name": "vla",
-        "source": "wikipedia article",
+        "source": "wikipedia article, refined using Google Maps",
         "timezone": "America/Denver"
     },
     "alma": {
@@ -682,12 +682,12 @@
         ],
         "elevation": 807,
         "elevation_unit": "meter",
-        "latitude": 38.433056,
+        "latitude": 38.4332,
         "latitude_unit": "degree",
-        "longitude": -79.839722,
+        "longitude": -79.8397,
         "longitude_unit": "degree",
         "name": "gbt",
-        "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation",
+        "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation, refined using Google Maps",
         "timezone": "America/New_York"
     }
 }
