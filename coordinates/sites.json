@@ -661,7 +661,7 @@
     "tug": {
         "source": "TUG Website: http://www.tug.tubitak.gov.tr/gozlemevi.php",
         "elevation": 2500,
-        "name": "TÜBİTAK National Observatory",
+        "name": "TUBITAK National Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 36.824166,

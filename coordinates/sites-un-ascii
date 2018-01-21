@@ -1,0 +1,2 @@
+# these are all mappings from the name in sites.json (which is ASCII-only) to the "true" unicode names
+TUBITAK->TÜBİTAK
