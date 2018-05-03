@@ -718,15 +718,14 @@
       	"longitude_unit": "degree",
       	"timezone": "US/Aleutian",
       	"source": "IfA website via Starlink/PAL"
-    }
-
+    },
     "ao": {
         "aliases": [
             "AO",
             "Arecibo Observatory",
             "Arecibo",
-            "arecibo",
-        ],
+            "arecibo"
+            ],
         "elevation": 497,
         "elevation_unit": "meter",
         "latitude": 18.34416667,
@@ -735,6 +734,5 @@
         "longitude_unit": "degree",
         "name": "Arecibo Observatory",
         "source": "https://en.wikipedia.org/wiki/Arecibo_Observatory"
-    },
-
+    }
 }
