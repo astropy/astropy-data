@@ -673,49 +673,68 @@
         ]
     },
     "gbt": {
-    "aliases": [
-        "Green Bank Telescope",
-        "GBT"
-    ],
-    "elevation": 0,
-    "elevation_unit": "meter",
-    "latitude": 38.433056,
-    "latitude_unit": "degree",
-    "longitude": -79.839722,
-    "longitude_unit": "degree",
-    "elevation": 807,
-    "elevation_unit": "meter",
-    "name": "gbt",
-    "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
+        "aliases": [
+            "Green Bank Telescope",
+            "GBT",
+            "Green Bank Observatory"
+            ],
+        "elevation": 0,
+        "elevation_unit": "meter",
+        "latitude": 38.433056,
+        "latitude_unit": "degree",
+        "longitude": -79.839722,
+        "longitude_unit": "degree",
+        "elevation": 807,
+        "elevation_unit": "meter",
+        "name": "gbt",
+        "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
     },
     "jcmt": {
-	"aliases": [
-	    "James Clerk Maxwell Telescope",
-	    "JCMT"
-	],
-	"name": "James Clerk Maxwell Telescope",
-	"elevation": 4124.75,
-	"elevation_unit": "meter",
-	"latitude": 19.8228,
-	"latitude_unit": "degree",
-	"longitude": 204.5230,
-	"longitude_unit": "degree",
-	"timezone": "US/Aleutian",
-	"source": "2007-04-11 GPS measurements by R. Tilanus (via Starlink/PAL)"
+	      "aliases": [
+	         "James Clerk Maxwell Telescope",
+	         "JCMT"
+	         ],
+	      "name": "James Clerk Maxwell Telescope",
+	      "elevation": 4124.75,
+	      "elevation_unit": "meter",
+      	"latitude": 19.8228,
+      	"latitude_unit": "degree",
+      	"longitude": 204.5230,
+      	"longitude_unit": "degree",
+      	"timezone": "US/Aleutian",
+      	"source": "2007-04-11 GPS measurements by R. Tilanus (via Starlink/PAL)"
     },
     "ukirt": {
-	"aliases": [
-	    "UKIRT",
-	    "United Kingdom Infrared Telescope"
-	],
-	"name": "United Kingdom Infrared Telescope",
-	"elevation": 4198.50,
-	"elevation_unit": "meter",
-	"latitude": 19.8224306,
-	"latitude_unit": "degree",
-	"longitude": 204.529672,
-	"longitude_unit": "degree",
-	"timezone": "US/Aleutian",
-	"source": "IfA website via Starlink/PAL"
+	      "aliases": [
+	         "UKIRT",
+	         "United Kingdom Infrared Telescope"
+	         ],
+	      "name": "United Kingdom Infrared Telescope",
+	      "elevation": 4198.50,
+      	"elevation_unit": "meter",
+      	"latitude": 19.8224306,
+      	"latitude_unit": "degree",
+      	"longitude": 204.529672,
+      	"longitude_unit": "degree",
+      	"timezone": "US/Aleutian",
+      	"source": "IfA website via Starlink/PAL"
     }
+
+    "ao": {
+        "aliases": [
+            "AO",
+            "Arecibo Observatory",
+            "Arecibo",
+            "arecibo",
+        ],
+        "elevation": 497,
+        "elevation_unit": "meter",
+        "latitude": 18.34416667,
+        "latitude_unit": "degree",
+        "longitude": -66.75277778,
+        "longitude_unit": "degree",
+        "name": "Arecibo Observatory",
+        "source": "https://en.wikipedia.org/wiki/Arecibo_Observatory"
+    },
+
 }
