@@ -58,7 +58,7 @@
     "mdm": {
         "source": "IRAF Observatory Database",
         "elevation": 1938,
-        "name": "Michigan-Dartmouth-MIT Observatory",
+        "name": "MDM Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 31.95,
