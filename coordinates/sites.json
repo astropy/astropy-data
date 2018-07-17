@@ -717,5 +717,21 @@
 	"longitude_unit": "degree",
 	"timezone": "US/Aleutian",
 	"source": "IfA website via Starlink/PAL"
+    },
+    "omm": {
+        "aliases": [
+            "OMM",
+            "Mont Mégantic Observatory",
+            "Observatoire du Mont Mégantic"
+        ],
+        "name": "Observatoire du Mont Mégantic",
+        "elevation": 1108,
+        "elevation_unit": "meter",
+        "latitude": 45.4557111111,
+        "latitude_unit": "degree",
+        "longitude": -71.1525000000,
+        "longitude_unit": "degree",
+        "timezone": "Canada/Eastern",
+        "source": "Google Maps"
     }
 }
