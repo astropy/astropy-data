@@ -717,5 +717,20 @@
 	"longitude_unit": "degree",
 	"timezone": "US/Aleutian",
 	"source": "IfA website via Starlink/PAL"
+    },
+    "mwa": {
+	"aliases": [
+	    "MWA",
+	    "Murchison Widefield Array"
+	],
+	"name": "Murchison Widefield Array",
+	"elevation": 377.83,
+	"elevation_unit": "meter",
+	"latitude": -26.70331940,
+	"latitude_unit": "degree",
+	"longitude": 116.67081524,
+	"longitude_unit": "degree",
+	"timezone": "Australian Western Standard Time",
+	"source": "MWA website: http://mwatelescope.org/telescope"
     }
 }
