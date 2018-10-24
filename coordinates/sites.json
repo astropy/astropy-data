@@ -717,5 +717,20 @@
 	"longitude_unit": "degree",
 	"timezone": "US/Aleutian",
 	"source": "IfA website via Starlink/PAL"
+    },
+    "wiyn": {
+	"aliases": [
+	    "WIYN",
+	    "WIYN Observatory"
+	],
+	"name": "WIYN Observatory",
+	"latitude": 31.958141,
+	"latitude_unit": "degree",
+	"longitude": -111.600461,
+	"longitude_unit": "degree",
+	"elevation": 2073.0,
+	"elevation_unit": "meter",
+	"timezone": "US/Mountain",
+	"source": "https://en.wikipedia.org/wiki/WIYN_Observatory"
     }
 }
