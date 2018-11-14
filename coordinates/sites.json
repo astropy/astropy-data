@@ -743,9 +743,9 @@
 	"elevation_unit": "meter",
 	"latitude": 20.7047,
 	"latitude_unit": "degree",
-	"longitude": -156.1767,
+	"longitude": 203.8233,
 	"longitude_unit": "degree",
-	"timezone": "Hawaii Standard Timezone",
+	"timezone": "US/Aleutian",
 	"source": "DKIST website: http://dkist.nso.edu/faq"
     }
 }
