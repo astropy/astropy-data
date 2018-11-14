@@ -777,7 +777,7 @@
 	"latitude_unit": "degree",
 	"longitude": 254.1795,
 	"longitude_unit": "degree",
-	"timezone": "US/Pacific",
+	"timezone": "US/Mountain",
 	"source": "NSO website: https://nsosp-dev.nso.edu/node/18"
     }
 }
