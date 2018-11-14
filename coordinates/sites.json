@@ -732,5 +732,20 @@
 	"longitude_unit": "degree",
 	"timezone": "Australian Western Standard Time",
 	"source": "MWA website: http://mwatelescope.org/telescope"
+    },
+    "dkist": {
+	"aliases": [
+	    "DKIST",
+	    "ATST"
+	],
+	"name": "Daniel K. Inouye Solar Telescope",
+	"elevation": 3104,
+	"elevation_unit": "meter",
+	"latitude": 20.7047,
+	"latitude_unit": "degree",
+	"longitude": -156.1767,
+	"longitude_unit": "degree",
+	"timezone": "Hawaii Standard Timezone",
+	"source": "DKIST website: http://dkist.nso.edu/faq"
     }
 }
