@@ -689,48 +689,48 @@
     "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
     },
     "jcmt": {
-	"aliases": [
-	    "James Clerk Maxwell Telescope",
-	    "JCMT"
-	],
-	"name": "James Clerk Maxwell Telescope",
-	"elevation": 4124.75,
-	"elevation_unit": "meter",
-	"latitude": 19.8228,
-	"latitude_unit": "degree",
-	"longitude": 204.5230,
-	"longitude_unit": "degree",
-	"timezone": "US/Aleutian",
-	"source": "2007-04-11 GPS measurements by R. Tilanus (via Starlink/PAL)"
+        "aliases": [
+            "James Clerk Maxwell Telescope",
+            "JCMT"
+        ],
+        "name": "James Clerk Maxwell Telescope",
+        "elevation": 4124.75,
+        "elevation_unit": "meter",
+        "latitude": 19.8228,
+        "latitude_unit": "degree",
+        "longitude": 204.5230,
+        "longitude_unit": "degree",
+        "timezone": "US/Aleutian",
+        "source": "2007-04-11 GPS measurements by R. Tilanus (via Starlink/PAL)"
     },
     "ukirt": {
-	"aliases": [
-	    "UKIRT",
-	    "United Kingdom Infrared Telescope"
-	],
-	"name": "United Kingdom Infrared Telescope",
-	"elevation": 4198.50,
-	"elevation_unit": "meter",
-	"latitude": 19.8224306,
-	"latitude_unit": "degree",
-	"longitude": 204.529672,
-	"longitude_unit": "degree",
-	"timezone": "US/Aleutian",
-	"source": "IfA website via Starlink/PAL"
+        "aliases": [
+            "UKIRT",
+            "United Kingdom Infrared Telescope"
+        ],
+        "name": "United Kingdom Infrared Telescope",
+        "elevation": 4198.50,
+        "elevation_unit": "meter",
+        "latitude": 19.8224306,
+        "latitude_unit": "degree",
+        "longitude": 204.529672,
+        "longitude_unit": "degree",
+        "timezone": "US/Aleutian",
+        "source": "IfA website via Starlink/PAL"
     },
     "mwa": {
-	"aliases": [
-	    "MWA",
-	    "Murchison Widefield Array"
-	],
-	"name": "Murchison Widefield Array",
-	"elevation": 377.83,
-	"elevation_unit": "meter",
-	"latitude": -26.70331940,
-	"latitude_unit": "degree",
-	"longitude": 116.67081524,
-	"longitude_unit": "degree",
-	"timezone": "Australian Western Standard Time",
-	"source": "MWA website: http://mwatelescope.org/telescope"
+        "aliases": [
+            "MWA",
+            "Murchison Widefield Array"
+        ],
+        "name": "Murchison Widefield Array",
+        "elevation": 377.83,
+        "elevation_unit": "meter",
+        "latitude": -26.70331940,
+        "latitude_unit": "degree",
+        "longitude": 116.67081524,
+        "longitude_unit": "degree",
+        "timezone": "Australian Western Standard Time",
+        "source": "MWA website: http://mwatelescope.org/telescope"
     }
 }
