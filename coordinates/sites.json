@@ -732,5 +732,19 @@
 	"longitude_unit": "degree",
 	"timezone": "Australian Western Standard Time",
 	"source": "MWA website: http://mwatelescope.org/telescope"
+    },
+    "iao": {
+        "source": "https://www.iiap.res.in/centers/iao?q=iao_site",
+        "elevation": 4500,
+        "name": "Indian Astronomical Observatory",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 32.779444444444444,
+        "elevation_unit": "meter",
+        "longitude": 78.96416666666667,
+        "timezone": "Asia/Kolkata",
+        "aliases": [
+            "IAO"
+        ]
     }
 }
