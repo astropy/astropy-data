@@ -184,14 +184,14 @@
         ]
     },
     "paranal": {
-        "source": "ESO webpage",
-        "elevation": 2635,
+        "source": "Official reference in VLTI raw data products",
+        "elevation": 2669,
         "name": "Paranal Observatory (ESO)",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -24.6252,
+        "latitude": -24.62743941,
         "elevation_unit": "meter",
-        "longitude": 289.597,
+        "longitude": -70.40498688,
         "timezone": "Chile/Continental",
         "aliases": [
             "Cerro Paranal",
