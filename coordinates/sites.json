@@ -630,20 +630,6 @@
              "Happy Jack"
         ]
     },
-    "vla": {
-        "aliases": [
-            "Very Large Array",
-            "Jansky Very Large Array"
-        ],
-        "elevation": 2124,
-        "elevation_unit": "meter",
-        "latitude": 34.07874916666667,
-        "latitude_unit": "degree",
-        "longitude": -107.61828305555555,
-        "longitude_unit": "degree",
-        "name": "vla",
-        "source": "wikipedia article"
-    },
     "alma": {
         "aliases": [
             "Atacama Large Millimeter Array",
@@ -671,22 +657,6 @@
         "aliases": [
              "TUG"
         ]
-    },
-    "gbt": {
-    "aliases": [
-        "Green Bank Telescope",
-        "GBT"
-    ],
-    "elevation": 0,
-    "elevation_unit": "meter",
-    "latitude": 38.433056,
-    "latitude_unit": "degree",
-    "longitude": -79.839722,
-    "longitude_unit": "degree",
-    "elevation": 807,
-    "elevation_unit": "meter",
-    "name": "gbt",
-    "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
     },
     "jcmt": {
 	"aliases": [
@@ -1441,7 +1411,8 @@
         "elevation_unit": "meter",
         "longitude": 280.160164999961864,
         "aliases": [
-            "Green Bank Telescope"
+            "Green Bank Telescope",
+            "gbt"
         ]
     },
     "JODRELL1": {
@@ -1480,7 +1451,8 @@
         "elevation_unit": "meter",
         "longitude": 252.382272222240772,
         "aliases": [
-            "Very Large Array"
+            "Very Large Array",
+            "vla"
         ]
     },
     "SUGARGROVE": {
