@@ -746,5 +746,52 @@
         "aliases": [
             "IAO"
         ]
+    },
+    "dkist": {
+	"aliases": [
+	    "DKIST",
+	    "ATST"
+	],
+	"name": "Daniel K. Inouye Solar Telescope",
+	"elevation": 3104,
+	"elevation_unit": "meter",
+	"latitude": 20.7047,
+	"latitude_unit": "degree",
+	"longitude": 203.8233,
+	"longitude_unit": "degree",
+	"timezone": "US/Aleutian",
+	"source": "DKIST website: http://dkist.nso.edu/faq"
+    },
+    "bbso": {
+	"aliases": [
+	    "BBSO",
+	    "NST"
+	],
+	"name": "Big Bear Solar Observatory",
+	"elevation": 2067,
+	"elevation_unit": "meter",
+	"latitude": 34.2583,
+	"latitude_unit": "degree",
+	"longitude": 243.0786,
+	"longitude_unit": "degree",
+	"timezone": "US/Pacific",
+	"source": "BBSO website: http://www.bbso.njit.edu/newinfo.html"
+    },
+    "spo": {
+	"aliases": [
+	    "SPO",
+	    "Sacramento Peak",
+	    "Sac Peak",
+	    "Sunspot"
+	],
+	"name": "Sacramento Peak Observatory",
+	"elevation": 2800,
+	"elevation_unit": "meter",
+	"latitude": 32.7873,
+	"latitude_unit": "degree",
+	"longitude": 254.1795,
+	"longitude_unit": "degree",
+	"timezone": "US/Mountain",
+	"source": "NSO website: https://nsosp-dev.nso.edu/node/18"
     }
 }
