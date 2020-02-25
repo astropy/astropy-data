@@ -793,5 +793,20 @@
 	"longitude_unit": "degree",
 	"timezone": "US/Mountain",
 	"source": "NSO website: https://nsosp-dev.nso.edu/node/18"
+    },
+    "tenerife": {
+        "name": "Teide Observatory, Tenerife",
+        "source": "https://www.iac.es/en/observatorios-de-canarias/teide-observatory",
+        "elevation": 2390,
+        "elevation_unit": "meter",
+        "latitude_unit": "degree",
+        "latitude": 28.30207,
+        "longitude_unit": "degree",
+        "longitude": 343.48964,
+        "timezone": "Atlantic/Canary",
+        "aliases": [
+	"Observatorio del Teide",
+            "OT"
+        ]
     }
 }
