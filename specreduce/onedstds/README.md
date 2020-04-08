@@ -1,4 +1,4 @@
-# README for specreduce/datasets/onedstds
+# README for specreduce/onedstds
 
 This directory contains standard calibration data for extinction and sensitivity
 calibration as used in 1D spectroscopy, 2D spectroscopy, as well as various
