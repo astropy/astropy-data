@@ -793,5 +793,83 @@
 	"longitude_unit": "degree",
 	"timezone": "US/Mountain",
 	"source": "NSO website: https://nsosp-dev.nso.edu/node/18"
-    }
+    },
+    "geo_600": {
+        "name": "GEO600 Gravitational Wave Detector",
+        "aliases": [
+            "GEO",
+            "GEO_600",
+            "G1"
+        ],
+        "timezone": "Europe/Berlin",
+        "elevation": 114.42500305175781,
+        "elevation_unit": "meter",
+        "latitude": 52.24514666662807,
+        "latitude_unit": "degree",
+        "longitude": 9.807192777776013,
+        "longitude_unit": "degree",
+        "source": "LALSuite: https://git.ligo.org/lscsoft/lalsuite/-/blob/lalsuite-v6.70/lal/lib/tools/LALDetectors.h"
+    },
+    "llo_4k": {
+        "name": "LIGO Livingston Observatory",
+        "aliases": [
+            "LLO",
+            "LLO_4k",
+            "L1"
+        ],
+        "timezone": "US/Central",
+        "elevation": -6.573999881744385,
+        "elevation_unit": "meter",
+        "latitude": 30.562894333574896,
+        "latitude_unit": "degree",
+        "longitude": -90.77424038872107,
+        "longitude_unit": "degree",
+        "source": "LALSuite: https://git.ligo.org/lscsoft/lalsuite/-/blob/lalsuite-v6.70/lal/lib/tools/LALDetectors.h"
+    },
+    "lho_4k": {
+        "name": "LIGO Hanford Observatory",
+        "aliases": [
+            "LLO",
+            "LHO_4k",
+            "H1"
+        ],
+        "timezone": "US/Pacific",
+        "elevation": 142.5540008544922,
+        "elevation_unit": "meter",
+        "latitude": 46.45514666665509,
+        "latitude_unit": "degree",
+        "longitude": -119.40765713911102,
+        "longitude_unit": "degree",
+        "source": "LALSuite: https://git.ligo.org/lscsoft/lalsuite/-/blob/lalsuite-v6.70/lal/lib/tools/LALDetectors.h"
+    },
+    "kagra": {
+        "name": "Kamioka Gravitational Wave Detector",
+        "aliases": [
+            "KAGRA",
+            "K1"
+        ],
+        "timezone": "Asia/Tokyo",
+        "elevation": 414.1809997558594,
+        "elevation_unit": "meter",
+        "latitude": 36.41186033946475,
+        "latitude_unit": "degree",
+        "longitude": 137.3059560115472,
+        "longitude_unit": "degree",
+        "source": "LALSuite: https://git.ligo.org/lscsoft/lalsuite/-/blob/lalsuite-v6.70/lal/lib/tools/LALDetectors.h"
+    },
+    "virgo": {
+        "name": "Virgo Observatory",
+        "aliases": [
+            "Virgo",
+            "VIRGO",
+            "V1"
+        ],
+        "timezone": "Europe/Rome",
+        "elevation": 51.88399887084961,
+        "elevation_unit": "meter",
+        "latitude": 43.631414472074304,
+        "latitude_unit": "degree",
+        "longitude": 10.504496611198473,
+        "longitude_unit": "degree",
+        "source": "LALSuite: https://git.ligo.org/lscsoft/lalsuite/-/blob/lalsuite-v6.70/lal/lib/tools/LALDetectors.h"
 }
