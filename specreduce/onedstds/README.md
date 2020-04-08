@@ -4,34 +4,14 @@ This directory contains standard calibration data for extinction and sensitivity
 calibration as used in 1D spectroscopy, 2D spectroscopy, as well as various
 image reduction tasks.
 
-Currently we focus on both extinction tables and flux standard directories inherited
-from `IRAF`'s `noao` package.
-
-Extinction Tables
------------------
-
-* ctioextinct.dat - CTIO extinction table for ONEDSPEC (in Angstroms)
-The CTIO extinction curve distributed with IRAF comes from the work of
-Stone & Baldwin (1983 MN 204, 347) and Baldwin & Stone (1984 MN 206,
-241).  The first of these papers lists the points from 3200-8370A while
-the second extended the flux calibration from 6056 to 10870A but the
-derived extinction curve was not given in the paper.  The IRAF table
-follows SB83 out to 6436, the redder points presumably come from BS84
-with averages used in the overlap region.
-
-    More recent CTIO extinction curves are shown as Figures in Hamuy
-et al (92, PASP 104, 533 ; 94 PASP 106, 566). -- Steve Heathcote, Mon, 19 Jul 1999
-
-
-* kpnoextinct.dat - KPNO extinction table for ONEDSPEC (in Angstroms)
+The bulk of the flux standard directories are inherited from `IRAF`'s `noao` package. Some
+Additional data has been collected from the Nearby Supernova Factory as well as the ESO and
+Gemini standard star libraries.
 
 Flux Standard Directories
 ----------------------------
 
- * blackbody - Directory for using blackbody flux distributions in
-various magnitude bands.
-
- * bstdscal - Directory of the brighter KPNO IRS standards (i.e. those
+* bstdscal - Directory of the brighter KPNO IRS standards (i.e. those
 with HR numbers) at 29 bandpasses, data from various
 sources transformed to the Hayes and Latham system,
 unpublished.
@@ -112,14 +92,6 @@ https://github.com/GeminiDRSoftware/DRAGONS/tree/master/geminidr/gemini/lookups/
 Standard Star Menus
 ----------------------
 
-Blackbody calibrations in onedstds/blackbody/
-
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| U        | B        | V        | R        | I        | J        | H        | K        |L         | Lprime   | M        |
-
-Magnitude conversions are available between V, J, H, K, L, Lprime, and M
-but for U, B, R, and I the star magnitudes must be in the same bandpass.
 --------------------------------------------------------------------------------
 Standard stars in onedstds/bstdscal/
 
