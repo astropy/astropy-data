@@ -1,11 +1,10 @@
-This directory contains line lists which are used by IDENTIFY/REIDENTIFY.
-There may additional applications using these lists in the future.
+This directory contains line lists that were used by IRAF's IDENTIFY/REIDENTIFY.
 
 		       	       LINE LISTS
                   (eg coordlist = linelists$henear.dat)
 
       argon.dat -  Vacuum wavelengths of the infrared emission lines of argon.
-                   The second column lists relative intensities.  The data 
+                   The second column lists relative intensities.  The data
                    are from "Wavelength Standards in the Infrared", K.N. Rao
                    et al., 1966.
  ctiohenear.dat -  HENEAR list used at CTIO
@@ -23,9 +22,9 @@ There may additional applications using these lists in the future.
 		   Comparison Spectra: FeAr Hollow Cathode, 3000A - 10,000A"
 		   by D. Willmarth.  The atlas is available from the
 		   KPNO User Support Office.
-     henear.dat -  Selected list of HENEAR lines to be used for 
-		   KPNO IIDS/IRS reductions - this list is identical to 
-		   that in the KPNO mountain reduction software for these 
+     henear.dat -  Selected list of HENEAR lines to be used for
+		   KPNO IIDS/IRS reductions - this list is identical to
+		   that in the KPNO mountain reduction software for these
 		   instruments.  Source of wavelengths:  1982 MIT
 		   Wavelength Tables Vol. 2.  Multiplet numbers from
 		   Charlotte Moore's A Multiplet Table of Astrophysical
@@ -39,8 +38,8 @@ There may additional applications using these lists in the future.
 		   Multiplet numbers from Charlotte Moore's A Multiplet Table
 		   of Astrophysical Interest 1972.
     krypton.dat -  Vacuum wavelengths of the infrared emission lines of krypton.
-                   The second column lists relative intensities.  The data  
-                   are from "Wavelength Standards in the Infrared", K.N. Rao 
+                   The second column lists relative intensities.  The data
+                   are from "Wavelength Standards in the Infrared", K.N. Rao
                    et al., 1966.
 lowskylines.dat -  Rest (air) wavelengths of all the OH vibration-rotation
                    lines in the sky spectrum, useful for low dispersion
@@ -70,10 +69,7 @@ vacidhenear.dat -  The idhenear.dat list converted to vacuum wavelengths
                    where sigma = 1/lambda(air) and air at T=15C, P=760mmHg, and
 		   no water vapour. (See B. Edlen, 1966
                    Metrologia, Vol. 2, p. 71).
-      xenon.dat -  Vacuum wavelengths of the infrared emission lines of xenon. 
-                   The second column lists relative intensities.  The data  
-                   are from "Wavelength Standards in the Infrared", K.N. Rao 
+      xenon.dat -  Vacuum wavelengths of the infrared emission lines of xenon.
+                   The second column lists relative intensities.  The data
+                   are from "Wavelength Standards in the Infrared", K.N. Rao
                    et al., 1966.
-
-    thorium.dat -  Obsolete and will disappear in the future.  Use thar.dat.
- vacthorium.dat -  Obsolete and will disappear in the furture.  Use vacthar.dat.
