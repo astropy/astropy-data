@@ -13,6 +13,51 @@
             "example_site"
         ]
     },
+    "parkes": {
+        "source": "CSIRO website https://www.parkes.atnf.csiro.au",
+        "name": "Parkes Observatory",
+        "longitude": 148.26352,
+        "latitude": -32.99839,
+        "elevation": 415,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "elevation_unit": "meter",
+        "time_zone": "Australia/NSW",
+        "aliases": [
+            "ATNF"
+        ]
+    },
+    "sarao": {
+        "source": "SARAO website https://public.ska.ac.za",
+        "name": "South African Radio Astronomy Observatory",
+        "longitude": 21.44389,
+        "latitude": -30.71317,
+        "elevation": 1050,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "elevation_unit": "meter",
+        "time_zone": "Africa/Johannesburg",
+        "aliases": [
+            "MeerKAT",
+            "Karoo Astronomy Reserve"
+        ]
+    },
+    "hcro": {
+        "source": "SRI website https://archive.sri.com/research-development/specialized-facilities/hat-creek-radio-observatory",
+        "name": "Hat Creek Radio Observatory",
+        "longitude": -121.47333,
+        "latitude": 40.81750,
+        "elevation": 986,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "elevation_unit": "meter",
+        "time_zone": "US/Pacific",
+        "aliases": [
+            "ATA",
+            "Allen Telescope Array",
+            "Hat Creek"
+        ]
+    },
     "mwo": {
         "source": "CHARA website",
         "elevation": 1742,
