@@ -748,34 +748,34 @@
         ]
     },
     "dkist": {
-	"aliases": [
-	    "DKIST",
-	    "ATST"
-	],
-	"name": "Daniel K. Inouye Solar Telescope",
-	"elevation": 3104,
-	"elevation_unit": "meter",
-	"latitude": 20.7047,
-	"latitude_unit": "degree",
-	"longitude": 203.8233,
-	"longitude_unit": "degree",
-	"timezone": "US/Aleutian",
-	"source": "DKIST website: http://dkist.nso.edu/faq"
+        "name": "Daniel K. Inouye Solar Telescope",
+        "elevation": 3104,
+        "elevation_unit": "meter",
+        "latitude": 20.7047,
+        "latitude_unit": "degree",
+        "longitude": 203.8233,
+        "longitude_unit": "degree",
+        "timezone": "US/Aleutian",
+        "aliases": [
+            "DKIST",
+            "ATST"
+        ],
+        "source": "DKIST website: http://dkist.nso.edu/faq"
     },
     "bbso": {
-	"aliases": [
-	    "BBSO",
-	    "NST"
-	],
-	"name": "Big Bear Solar Observatory",
-	"elevation": 2067,
-	"elevation_unit": "meter",
-	"latitude": 34.2583,
-	"latitude_unit": "degree",
-	"longitude": 243.0786,
-	"longitude_unit": "degree",
-	"timezone": "US/Pacific",
-	"source": "BBSO website: http://www.bbso.njit.edu/newinfo.html"
+        "name": "Big Bear Solar Observatory",
+        "elevation": 2067,
+        "elevation_unit": "meter",
+        "latitude": 34.2583,
+        "latitude_unit": "degree",
+        "longitude": 243.0786,
+        "longitude_unit": "degree",
+        "timezone": "US/Pacific",
+        "aliases": [
+            "BBSO",
+            "NST"
+        ],
+        "source": "BBSO website: http://www.bbso.njit.edu/newinfo.html"
     },
     "spo": {
 	"aliases": [
@@ -793,5 +793,91 @@
 	"longitude_unit": "degree",
 	"timezone": "US/Mountain",
 	"source": "NSO website: https://nsosp-dev.nso.edu/node/18"
+    },
+    "teide": {
+        "name": "Observatorio del Teide, Tenerife",
+        "elevation": 2390,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 28.3,
+        "elevation_unit": "meter",
+        "longitude": 343.490278,
+        "timezone": "Atlantic/Canary",
+        "source": "Instituto de Astrofisica de Canarias website (http://research.iac.es/OOCC/observatorio-del-teide/ot/)",
+        "aliases": [
+            "Observatorio del Teide",
+            "OT"
+        ]
+    },
+    "CAHA": {
+        "name": "Centro Astronomico Hispano-Aleman, Almeria",
+        "elevation": 2168,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 37.22361111,
+        "elevation_unit": "meter",
+        "longitude": 357.453889,
+        "timezone": "CET",
+        "source": "CAHA Wikipedia page (https://en.wikipedia.org/wiki/Calar_Alto_Observatory)",
+        "aliases": [
+            "Observatorio de Calar Alto",
+            "CAHA"
+        ]
+    },
+    "OARMA": {
+        "name": "Observatorio Astronomico Ramon Maria Aller, Santiago de Compostela",
+        "elevation": 240,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 42.87594,
+        "elevation_unit": "meter",
+        "longitude": 351.44455,
+        "timezone": "CET",
+        "source": "OpenStreetView",
+        "aliases": [
+            "Observatorio Ramon Maria Aller",
+            "OARMA"
+        ]
+    },
+    "OAJ": {
+        "elevation": 1956,
+        "name": "Observatorio Astrofisico de Javalambre",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 40.04201944,
+        "elevation_unit": "meter",
+        "longitude": 358.98391667,
+        "timezone": "CET",
+        "source": "Google Earth",
+        "aliases": [
+            "OAJ"
+        ]
+    },
+    "OAO": {
+        "name": "Okayama Astrophysical Observatory",
+        "elevation": 370,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 34.57444444 ,
+        "elevation_unit": "meter",
+        "longitude": 133.59388889,
+        "timezone": "JST",
+        "aliases": [
+            "OAO"
+        ]
+    },
+    "TNO": {
+        "name": "Thai National Observatory",
+        "elevation": 2457,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 18.59055556,
+        "elevation_unit": "meter",
+        "longitude": 98.48666667,
+        "timezone": "ICT",
+        "aliases": [
+            "TNO"
+        ]
     }
 }
+  
