@@ -872,4 +872,5 @@
         "longitude": 10.504496611198473,
         "longitude_unit": "degree",
         "source": "LALSuite: https://git.ligo.org/lscsoft/lalsuite/-/blob/lalsuite-v6.70/lal/lib/tools/LALDetectors.h"
+    }
 }
