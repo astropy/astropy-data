@@ -1,0 +1,27 @@
+name: When Opened
+
+on:
+  pull_request:
+    types:
+    - opened
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Label PR
+      uses: actions/labeler@main
+      with:
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+    - name: 'Comment Draft PR'
+      uses: actions/github-script@v3
+      if: github.event.pull_request.draft == true
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          github.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: '👋 Thank you for your draft pull request! Do you know that you can use `[ci skip]` or `[skip ci]` in your commit messages to skip running continuous integration tests until you are ready?'
+          })

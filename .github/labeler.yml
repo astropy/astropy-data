@@ -1,0 +1,46 @@
+frontend:
+  - css/**/*
+  - file_index.json
+  - images/**/*
+  - index.html
+  - js/**/*
+
+testing:
+  - .github/**/*
+  - tests/**/*
+
+intersphinx:
+  - intersphinx/**/*
+
+all-sky data:
+  - allsky/**/*
+
+coordinates data:
+  - coordinates/**/*
+
+galactic center data:
+  - galactic_center/**/*
+
+l1148 data:
+  - l1448/**/*
+
+photometry data:
+  - photometry/**/*
+
+sites data:
+  - coordinates/sites.json
+
+tests data:
+  - testing/**/*
+
+timeseries data:
+  - timeseries/**/*
+
+tutorials data:
+  - tutorials/**/*
+
+visualization data:
+  - visualization/**/*
+
+wcsaxes data:
+  - wcsaxes/**/*
