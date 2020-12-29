@@ -1,6 +1,7 @@
 ---
 name: Bug report
 about: Create a report describing unexpected or incorrect behavior in astropy-data.
+label: 'bug'
 ---
 
 <!-- This comments are hidden when you submit the issue,
