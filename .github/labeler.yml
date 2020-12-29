@@ -6,7 +6,7 @@ frontend:
   - js/**/*
 
 testing:
-  - .github/**/*
+  - .github/**/*.yml
   - tests/**/*
 
 intersphinx:
