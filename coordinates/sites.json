@@ -890,4 +890,18 @@
         "longitude_unit": "degree",
         "source": "OVRO staff measurement of center of T using GNSS"
     }
+    "chime": {
+        "name": "Canadian Hydrogen Intensity Mapping Experiment",
+        "aliases": [
+		"CHIME",
+        ],
+        "timezone": "America/Vancouver",
+        "elevation": 555.37238077,
+        "elevation_unit": "meter",
+        "latitude": 49.32070922,
+        "latitude_unit": "degree",
+        "longitude": -119.62367743,
+        "longitude_unit": "degree",
+        "source": "Internal memo by Calvin Leung on surveyed positions."
+    }
 }
