@@ -893,7 +893,7 @@
     "chime": {
         "name": "Canadian Hydrogen Intensity Mapping Experiment",
         "aliases": [
-		    "CHIME"
+            "CHIME"
         ],
         "timezone": "America/Vancouver",
         "elevation": 555.37238077,
@@ -905,16 +905,16 @@
         "source": "Journey to the center of CHIME, Calvin Leung, CHIME memo. Also, 2018 ApJ...863...48C."
     },
     "drao": {
-       "source": "Geometry of the Penticton 25.6 m, John Galt, DRAO memo",
-       "elevation": 546.566,
-       "name": "Dominion Radio Astrophysical Observatory",
-       "longitude_unit": "degree",
-       "latitude_unit": "degree",
-       "latitude": 49.3210230556,
-       "elevation_unit": "meter",
-       "longitude": 240.3810197222,
-       "timezone": "Canada/Pacific",
-       "aliases": [
+        "source": "Geometry of the Penticton 25.6 m, John Galt, DRAO memo",
+        "elevation": 546.566,
+        "name": "Dominion Radio Astrophysical Observatory",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 49.3210230556,
+        "elevation_unit": "meter",
+        "longitude": 240.3810197222,
+        "timezone": "Canada/Pacific",
+        "aliases": [
            "Dominion Radio Astrophysical Observatory",
            "DRAO",
            "John Galt Telescope",
