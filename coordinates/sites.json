@@ -872,19 +872,17 @@
         "longitude": 10.504496611198473,
         "longitude_unit": "degree",
         "source": "LALSuite: https://git.ligo.org/lscsoft/lalsuite/-/blob/lalsuite-v6.70/lal/lib/tools/LALDetectors.h"
-    }
+    },
     "ovro": {
         "name": "Owens Valley Radio Observatory",
-        "aliases": [
-            "mma",
-        ],
+        "aliases": ["mma"],
         "timezone": "US/Pacific",
-        "elevation": 1188.05
+        "elevation": 1188.05,
         "elevation_unit": "meter",
         "latitude": 37.2334,
         "latitude_unit": "degree",
-        "longitude": -118.283
+        "longitude": -118.283,
         "longitude_unit": "degree",
         "source": "CASA software observatories list"
-    },
+    }
 }
