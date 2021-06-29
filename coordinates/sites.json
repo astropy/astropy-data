@@ -872,5 +872,17 @@
         "longitude": 10.504496611198473,
         "longitude_unit": "degree",
         "source": "LALSuite: https://git.ligo.org/lscsoft/lalsuite/-/blob/lalsuite-v6.70/lal/lib/tools/LALDetectors.h"
+    },
+    "ovro": {
+        "name": "Owens Valley Radio Observatory",
+        "aliases": ["mma"],
+        "timezone": "US/Pacific",
+        "elevation": 1188.6,
+        "elevation_unit": "meter",
+        "latitude": 37.233386982, 
+        "latitude_unit": "degree",
+        "longitude": -118.283405115,
+        "longitude_unit": "degree",
+        "source": "OVRO staff measurement of center of T using GNSS"
     }
 }
