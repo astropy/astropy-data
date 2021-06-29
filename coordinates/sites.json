@@ -877,12 +877,12 @@
         "name": "Owens Valley Radio Observatory",
         "aliases": ["mma"],
         "timezone": "US/Pacific",
-        "elevation": 1188.05,
+        "elevation": 1188.6,
         "elevation_unit": "meter",
-        "latitude": 37.2334,
+        "latitude": 37.233386982, 
         "latitude_unit": "degree",
-        "longitude": -118.283,
+        "longitude": -118.283405115,
         "longitude_unit": "degree",
-        "source": "CASA software observatories list"
+        "source": "OVRO staff measurement of center of T using GNSS"
     }
 }
