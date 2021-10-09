@@ -372,15 +372,16 @@
     "ekar": {
         "source": "IRAF Observatory Database",
         "elevation": 1413,
-        "name": "Mt. Ekar 182 cm. Telescope",
+        "name": "Cima Ekar 182 cm Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 45.84858888888889,
         "elevation_unit": "meter",
         "longitude": 11.581133333333334,
-        "timezone": "CET",
+        "timezone": "Europe/Rome",
         "aliases": [
-            "Mt. Ekar 182 cm. Telescope"
+            "Cima Ekar Observing Station",
+            "Mt. Ekar 182 cm Telescope"
         ]
     },
     "Subaru": {
@@ -553,7 +554,7 @@
         "latitude": 39.493040,
         "elevation_unit": "meter",
         "longitude": 9.24516,
-        "timezone": "CET",
+        "timezone": "Europe/Rome",
         "aliases": [
              "SRT"
         ]
@@ -567,7 +568,7 @@
         "latitude": 44.5205,
         "elevation_unit": "meter",
         "longitude": 11.6469,
-        "timezone": "CET",
+        "timezone": "Europe/Rome",
         "aliases": [
              "Medicina Dish",
              "Medicina"
@@ -582,7 +583,7 @@
         "latitude": 36.87585,
         "elevation_unit": "meter",
         "longitude": 14.9889,
-        "timezone": "CET",
+        "timezone": "Europe/Rome",
         "aliases": [
              "Noto"
         ]
@@ -596,7 +597,7 @@
         "latitude": 43.93083333333333,
         "elevation_unit": "meter",
         "longitude": 5.713333333333333,
-        "timezone": "CET",
+        "timezone": "Europe/Paris",
         "aliases": [
              ""
         ]
@@ -610,7 +611,7 @@
         "latitude": 44.0,
         "elevation_unit": "meter",
         "longitude": 5.486944444444444,
-        "timezone": "CET",
+        "timezone": "Europe/Paris",
         "aliases": [
              ""
         ]
@@ -676,21 +677,21 @@
         ]
     },
     "gbt": {
-    "aliases": [
-        "Green Bank Telescope",
-        "GBT"
-    ],
-    "elevation": 0,
-    "elevation_unit": "meter",
-    "latitude": 38.433056,
-    "latitude_unit": "degree",
-    "longitude": -79.839722,
-    "longitude_unit": "degree",
-    "timezone": "US/Eastern",
-    "elevation": 807,
-    "elevation_unit": "meter",
-    "name": "gbt",
-    "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
+        "aliases": [
+            "Green Bank Telescope",
+            "GBT"
+        ],
+        "elevation": 0,
+        "elevation_unit": "meter",
+        "latitude": 38.433056,
+        "latitude_unit": "degree",
+        "longitude": -79.839722,
+        "longitude_unit": "degree",
+        "timezone": "US/Eastern",
+        "elevation": 807,
+        "elevation_unit": "meter",
+        "name": "gbt",
+        "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
     },
     "jcmt": {
 	"aliases": [
