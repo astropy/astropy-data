@@ -207,7 +207,7 @@
         "latitude": 19.826666666666668,
         "elevation_unit": "meter",
         "longitude": 204.52833333333334,
-        "timezone": "US/Aleutian",
+        "timezone": "US/Hawaii",
         "aliases": [
             "Canada-France-Hawaii Telescope"
         ]
@@ -235,7 +235,7 @@
         "latitude": 19.828333333333333,
         "elevation_unit": "meter",
         "longitude": 204.52166666666668,
-        "timezone": "US/Aleutian",
+        "timezone": "US/Hawaii",
         "aliases": [
             "W. M. Keck Observatory",
             "Keck Observatory"
@@ -392,7 +392,7 @@
         "latitude": 19.825555555555557,
         "elevation_unit": "meter",
         "longitude": 204.5238888888889,
-        "timezone": "US/Aleutian",
+        "timezone": "US/Hawaii",
         "aliases": [
             "Subaru Telescope"
         ]
@@ -462,7 +462,7 @@
         "latitude": 20.71552,
         "elevation_unit": "meter",
         "longitude": 203.831,
-        "timezone": "US/Aleutian",
+        "timezone": "US/Hawaii",
         "aliases": [
             "Haleakala Observatories"
         ]
@@ -492,7 +492,7 @@
         "latitude": 19.823801447222223,
         "elevation_unit": "meter",
         "longitude": -155.4690467527778,
-        "timezone": "US/Aleutian",
+        "timezone": "US/Hawaii",
         "aliases": [
              "gemn"
         ]
@@ -506,7 +506,7 @@
         "latitude": 19.826218316666665,
         "elevation_unit": "meter",
         "longitude": -155.4719987888889,
-        "timezone": "US/Aleutian",
+        "timezone": "US/Hawaii",
         "aliases": [
              ""
         ]
@@ -700,7 +700,7 @@
 	"latitude_unit": "degree",
 	"longitude": 204.5230,
 	"longitude_unit": "degree",
-	"timezone": "US/Aleutian",
+	"timezone": "US/Hawaii",
 	"source": "2007-04-11 GPS measurements by R. Tilanus (via Starlink/PAL)"
     },
     "ukirt": {
@@ -715,7 +715,7 @@
 	"latitude_unit": "degree",
 	"longitude": 204.529672,
 	"longitude_unit": "degree",
-	"timezone": "US/Aleutian",
+	"timezone": "US/Hawaii",
 	"source": "IfA website via Starlink/PAL"
     },
     "mwa": {
@@ -730,7 +730,7 @@
 	"latitude_unit": "degree",
 	"longitude": 116.67081524,
 	"longitude_unit": "degree",
-	"timezone": "Australian Western Standard Time",
+	"timezone": "Australia/Perth",
 	"source": "MWA website: http://mwatelescope.org/telescope"
     },
     "iao": {
@@ -759,7 +759,7 @@
 	"latitude_unit": "degree",
 	"longitude": 203.7436,
 	"longitude_unit": "degree",
-	"timezone": "US/Aleutian",
+	"timezone": "US/Hawaii",
 	"source": "DKIST website: https://www.nso.edu/telescopes/dki-solar-telescope/"
     },
     "bbso": {
