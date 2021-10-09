@@ -624,6 +624,7 @@
         "latitude": 34.744305,
         "elevation_unit": "meter",
         "longitude": 248.577485,
+        "timezone": "US/Mountain",
         "aliases": [
              "DCT",
              "Discovery Channel Telescope",
@@ -641,8 +642,9 @@
         "latitude_unit": "degree",
         "longitude": -107.61828305555555,
         "longitude_unit": "degree",
+        "timezone": "US/Mountain",
         "name": "vla",
-        "source": "wikipedia article"
+        "source": "https://en.wikipedia.org/wiki/Very_Large_Array"
     },
     "alma": {
         "aliases": [
@@ -655,6 +657,7 @@
         "latitude_unit": "degree",
         "longitude": -67.755,
         "longitude_unit": "degree",
+        "timezone": "Chile/Continental",
         "name": "alma",
         "source": "https://almascience.eso.org/about-alma/alma-site"
     },
@@ -683,6 +686,7 @@
     "latitude_unit": "degree",
     "longitude": -79.839722,
     "longitude_unit": "degree",
+    "timezone": "US/Eastern",
     "elevation": 807,
     "elevation_unit": "meter",
     "name": "gbt",
