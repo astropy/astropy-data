@@ -207,7 +207,7 @@
         "latitude": 19.826666666666668,
         "elevation_unit": "meter",
         "longitude": 204.52833333333334,
-        "timezone": "US/Aleutian",
+        "timezone": "US/Hawaii",
         "aliases": [
             "Canada-France-Hawaii Telescope"
         ]
@@ -235,7 +235,7 @@
         "latitude": 19.828333333333333,
         "elevation_unit": "meter",
         "longitude": 204.52166666666668,
-        "timezone": "US/Aleutian",
+        "timezone": "US/Hawaii",
         "aliases": [
             "W. M. Keck Observatory",
             "Keck Observatory"
@@ -372,15 +372,16 @@
     "ekar": {
         "source": "IRAF Observatory Database",
         "elevation": 1413,
-        "name": "Mt. Ekar 182 cm. Telescope",
+        "name": "Cima Ekar 182 cm Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 45.84858888888889,
         "elevation_unit": "meter",
         "longitude": 11.581133333333334,
-        "timezone": "CET",
+        "timezone": "Europe/Rome",
         "aliases": [
-            "Mt. Ekar 182 cm. Telescope"
+            "Cima Ekar Observing Station",
+            "Mt. Ekar 182 cm Telescope"
         ]
     },
     "Subaru": {
@@ -392,7 +393,7 @@
         "latitude": 19.825555555555557,
         "elevation_unit": "meter",
         "longitude": 204.5238888888889,
-        "timezone": "US/Aleutian",
+        "timezone": "US/Hawaii",
         "aliases": [
             "Subaru Telescope"
         ]
@@ -462,7 +463,7 @@
         "latitude": 20.71552,
         "elevation_unit": "meter",
         "longitude": 203.831,
-        "timezone": "US/Aleutian",
+        "timezone": "US/Hawaii",
         "aliases": [
             "Haleakala Observatories"
         ]
@@ -492,7 +493,7 @@
         "latitude": 19.823801447222223,
         "elevation_unit": "meter",
         "longitude": -155.4690467527778,
-        "timezone": "US/Aleutian",
+        "timezone": "US/Hawaii",
         "aliases": [
              "gemn"
         ]
@@ -506,7 +507,7 @@
         "latitude": 19.826218316666665,
         "elevation_unit": "meter",
         "longitude": -155.4719987888889,
-        "timezone": "US/Aleutian",
+        "timezone": "US/Hawaii",
         "aliases": [
              ""
         ]
@@ -553,7 +554,7 @@
         "latitude": 39.493040,
         "elevation_unit": "meter",
         "longitude": 9.24516,
-        "timezone": "CET",
+        "timezone": "Europe/Rome",
         "aliases": [
              "SRT"
         ]
@@ -567,7 +568,7 @@
         "latitude": 44.5205,
         "elevation_unit": "meter",
         "longitude": 11.6469,
-        "timezone": "CET",
+        "timezone": "Europe/Rome",
         "aliases": [
              "Medicina Dish",
              "Medicina"
@@ -582,7 +583,7 @@
         "latitude": 36.87585,
         "elevation_unit": "meter",
         "longitude": 14.9889,
-        "timezone": "CET",
+        "timezone": "Europe/Rome",
         "aliases": [
              "Noto"
         ]
@@ -596,7 +597,7 @@
         "latitude": 43.93083333333333,
         "elevation_unit": "meter",
         "longitude": 5.713333333333333,
-        "timezone": "CET",
+        "timezone": "Europe/Paris",
         "aliases": [
              ""
         ]
@@ -610,7 +611,7 @@
         "latitude": 44.0,
         "elevation_unit": "meter",
         "longitude": 5.486944444444444,
-        "timezone": "CET",
+        "timezone": "Europe/Paris",
         "aliases": [
              ""
         ]
@@ -624,6 +625,7 @@
         "latitude": 34.744305,
         "elevation_unit": "meter",
         "longitude": 248.577485,
+        "timezone": "US/Mountain",
         "aliases": [
              "DCT",
              "Discovery Channel Telescope",
@@ -641,8 +643,9 @@
         "latitude_unit": "degree",
         "longitude": -107.61828305555555,
         "longitude_unit": "degree",
+        "timezone": "US/Mountain",
         "name": "vla",
-        "source": "wikipedia article"
+        "source": "https://en.wikipedia.org/wiki/Very_Large_Array"
     },
     "alma": {
         "aliases": [
@@ -655,6 +658,7 @@
         "latitude_unit": "degree",
         "longitude": -67.755,
         "longitude_unit": "degree",
+        "timezone": "Chile/Continental",
         "name": "alma",
         "source": "https://almascience.eso.org/about-alma/alma-site"
     },
@@ -673,20 +677,21 @@
         ]
     },
     "gbt": {
-    "aliases": [
-        "Green Bank Telescope",
-        "GBT"
-    ],
-    "elevation": 0,
-    "elevation_unit": "meter",
-    "latitude": 38.433056,
-    "latitude_unit": "degree",
-    "longitude": -79.839722,
-    "longitude_unit": "degree",
-    "elevation": 807,
-    "elevation_unit": "meter",
-    "name": "gbt",
-    "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
+        "aliases": [
+            "Green Bank Telescope",
+            "GBT"
+        ],
+        "elevation": 0,
+        "elevation_unit": "meter",
+        "latitude": 38.433056,
+        "latitude_unit": "degree",
+        "longitude": -79.839722,
+        "longitude_unit": "degree",
+        "timezone": "US/Eastern",
+        "elevation": 807,
+        "elevation_unit": "meter",
+        "name": "gbt",
+        "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
     },
     "jcmt": {
 	"aliases": [
@@ -700,7 +705,7 @@
 	"latitude_unit": "degree",
 	"longitude": 204.5230,
 	"longitude_unit": "degree",
-	"timezone": "US/Aleutian",
+	"timezone": "US/Hawaii",
 	"source": "2007-04-11 GPS measurements by R. Tilanus (via Starlink/PAL)"
     },
     "ukirt": {
@@ -715,7 +720,7 @@
 	"latitude_unit": "degree",
 	"longitude": 204.529672,
 	"longitude_unit": "degree",
-	"timezone": "US/Aleutian",
+	"timezone": "US/Hawaii",
 	"source": "IfA website via Starlink/PAL"
     },
     "mwa": {
@@ -730,7 +735,7 @@
 	"latitude_unit": "degree",
 	"longitude": 116.67081524,
 	"longitude_unit": "degree",
-	"timezone": "Australian Western Standard Time",
+	"timezone": "Australia/Perth",
 	"source": "MWA website: http://mwatelescope.org/telescope"
     },
     "iao": {
@@ -759,7 +764,7 @@
 	"latitude_unit": "degree",
 	"longitude": 203.7436,
 	"longitude_unit": "degree",
-	"timezone": "US/Aleutian",
+	"timezone": "US/Hawaii",
 	"source": "DKIST website: https://www.nso.edu/telescopes/dki-solar-telescope/"
     },
     "bbso": {
