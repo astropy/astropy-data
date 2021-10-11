@@ -694,49 +694,49 @@
         "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
     },
     "jcmt": {
-	"aliases": [
-	    "James Clerk Maxwell Telescope",
-	    "JCMT"
-	],
-	"name": "James Clerk Maxwell Telescope",
-	"elevation": 4124.75,
-	"elevation_unit": "meter",
-	"latitude": 19.8228,
-	"latitude_unit": "degree",
-	"longitude": 204.5230,
-	"longitude_unit": "degree",
-	"timezone": "US/Hawaii",
-	"source": "2007-04-11 GPS measurements by R. Tilanus (via Starlink/PAL)"
+        "aliases": [
+            "James Clerk Maxwell Telescope",
+            "JCMT"
+        ],
+        "name": "James Clerk Maxwell Telescope",
+        "elevation": 4124.75,
+        "elevation_unit": "meter",
+        "latitude": 19.8228,
+        "latitude_unit": "degree",
+        "longitude": 204.5230,
+        "longitude_unit": "degree",
+        "timezone": "US/Hawaii",
+        "source": "2007-04-11 GPS measurements by R. Tilanus (via Starlink/PAL)"
     },
     "ukirt": {
-	"aliases": [
-	    "UKIRT",
-	    "United Kingdom Infrared Telescope"
-	],
-	"name": "United Kingdom Infrared Telescope",
-	"elevation": 4198.50,
-	"elevation_unit": "meter",
-	"latitude": 19.8224306,
-	"latitude_unit": "degree",
-	"longitude": 204.529672,
-	"longitude_unit": "degree",
-	"timezone": "US/Hawaii",
-	"source": "IfA website via Starlink/PAL"
+        "aliases": [
+            "UKIRT",
+            "United Kingdom Infrared Telescope"
+        ],
+        "name": "United Kingdom Infrared Telescope",
+        "elevation": 4198.50,
+        "elevation_unit": "meter",
+        "latitude": 19.8224306,
+        "latitude_unit": "degree",
+        "longitude": 204.529672,
+        "longitude_unit": "degree",
+        "timezone": "US/Hawaii",
+        "source": "IfA website via Starlink/PAL"
     },
     "mwa": {
-	"aliases": [
-	    "MWA",
-	    "Murchison Widefield Array"
-	],
-	"name": "Murchison Widefield Array",
-	"elevation": 377.83,
-	"elevation_unit": "meter",
-	"latitude": -26.70331940,
-	"latitude_unit": "degree",
-	"longitude": 116.67081524,
-	"longitude_unit": "degree",
-	"timezone": "Australia/Perth",
-	"source": "MWA website: http://mwatelescope.org/telescope"
+        "aliases": [
+            "MWA",
+            "Murchison Widefield Array"
+        ],
+        "name": "Murchison Widefield Array",
+        "elevation": 377.83,
+        "elevation_unit": "meter",
+        "latitude": -26.70331940,
+        "latitude_unit": "degree",
+        "longitude": 116.67081524,
+        "longitude_unit": "degree",
+        "timezone": "Australia/Perth",
+        "source": "MWA website: http://mwatelescope.org/telescope"
     },
     "iao": {
         "source": "https://www.iiap.res.in/centers/iao?q=iao_site",
@@ -753,51 +753,55 @@
         ]
     },
     "dkist": {
-	"aliases": [
-	    "DKIST",
-	    "ATST"
-	],
-	"name": "Daniel K. Inouye Solar Telescope",
-	"elevation": 3067,
-	"elevation_unit": "meter",
-	"latitude": 20.7067,
-	"latitude_unit": "degree",
-	"longitude": 203.7436,
-	"longitude_unit": "degree",
-	"timezone": "US/Hawaii",
-	"source": "DKIST website: https://www.nso.edu/telescopes/dki-solar-telescope/"
+        "aliases": [
+            "DKIST",
+            "ATST"
+        ],
+        "name": "Daniel K. Inouye Solar Telescope",
+        "elevation": 3067,
+        "elevation_unit": "meter",
+        "latitude": 20.7067,
+        "latitude_unit": "degree",
+        "longitude": 203.7436,
+        "longitude_unit": "degree",
+        "timezone": "US/Hawaii",
+        "source": "DKIST website: https://www.nso.edu/telescopes/dki-solar-telescope/",
+        "aliases": [
+            "DKIST",
+            "ATST"
+        ]
     },
     "bbso": {
-	"aliases": [
-	    "BBSO",
-	    "NST"
-	],
-	"name": "Big Bear Solar Observatory",
-	"elevation": 2067,
-	"elevation_unit": "meter",
-	"latitude": 34.2583,
-	"latitude_unit": "degree",
-	"longitude": 243.0786,
-	"longitude_unit": "degree",
-	"timezone": "US/Pacific",
-	"source": "BBSO website: http://www.bbso.njit.edu/newinfo.html"
+        "name": "Big Bear Solar Observatory",
+        "elevation": 2067,
+        "elevation_unit": "meter",
+        "latitude": 34.2583,
+        "latitude_unit": "degree",
+        "longitude": 243.0786,
+        "longitude_unit": "degree",
+        "timezone": "US/Pacific",
+        "aliases": [
+            "BBSO",
+            "NST"
+        ],
+        "source": "BBSO website: http://www.bbso.njit.edu/newinfo.html"
     },
     "spo": {
-	"aliases": [
-	    "SPO",
-	    "Sacramento Peak",
-	    "Sac Peak",
-	    "Sunspot"
-	],
-	"name": "Sacramento Peak Observatory",
-	"elevation": 2800,
-	"elevation_unit": "meter",
-	"latitude": 32.7873,
-	"latitude_unit": "degree",
-	"longitude": 254.1795,
-	"longitude_unit": "degree",
-	"timezone": "US/Mountain",
-	"source": "NSO website: https://nsosp-dev.nso.edu/node/18"
+        "aliases": [
+            "SPO",
+            "Sacramento Peak",
+            "Sac Peak",
+            "Sunspot"
+        ],
+        "name": "Sacramento Peak Observatory",
+        "elevation": 2800,
+        "elevation_unit": "meter",
+        "latitude": 32.7873,
+        "latitude_unit": "degree",
+        "longitude": 254.1795,
+        "longitude_unit": "degree",
+        "timezone": "US/Mountain",
+        "source": "NSO website: https://nsosp-dev.nso.edu/node/18"
     },
     "geo_600": {
         "name": "GEO600 Gravitational Wave Detector",
