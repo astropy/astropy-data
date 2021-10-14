@@ -822,7 +822,7 @@
         "latitude": 37.22361111,
         "elevation_unit": "meter",
         "longitude": 357.453889,
-        "timezone": "CET",
+        "timezone": "Europe/Madrid",
         "source": "CAHA Wikipedia page (https://en.wikipedia.org/wiki/Calar_Alto_Observatory)",
         "aliases": [
             "Observatorio de Calar Alto",
@@ -837,7 +837,7 @@
         "latitude": 42.87594,
         "elevation_unit": "meter",
         "longitude": 351.44455,
-        "timezone": "CET",
+        "timezone": "Europe/Madrid",
         "source": "OpenStreetView",
         "aliases": [
             "Observatorio Ramon Maria Aller",
@@ -852,7 +852,7 @@
         "latitude": 40.04201944,
         "elevation_unit": "meter",
         "longitude": 358.98391667,
-        "timezone": "CET",
+        "timezone": "Europe/Madrid",
         "source": "Google Earth",
         "aliases": [
             "OAJ"
@@ -863,10 +863,11 @@
         "elevation": 370,
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 34.57444444 ,
+        "latitude": 34.577075 ,
         "elevation_unit": "meter",
-        "longitude": 133.59388889,
-        "timezone": "JST",
+        "longitude": 133.5939556,
+        "timezone": "Asia/Tokyo",
+        "source": "OAO Website (http://www.oao.nao.ac.jp/en/telescope/abouttel188/)",
         "aliases": [
             "OAO"
         ]
@@ -879,7 +880,8 @@
         "latitude": 18.59055556,
         "elevation_unit": "meter",
         "longitude": 98.48666667,
-        "timezone": "ICT",
+        "timezone": "Asia/Bangkok",
+        "source": "TNO Wikipedia page (https://en.wikipedia.org/wiki/Thai_National_Observatory)",
         "aliases": [
             "TNO"
         ]
