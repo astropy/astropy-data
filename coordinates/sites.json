@@ -891,7 +891,7 @@
         "latitude_unit": "degree",
         "longitude": 137.310306,
         "longitude_unit": "degree",
-        "timezone": "Japan Standard Time",
+        "timezone": "Asia/Tokyo",
         "aliases": [
             "superk",
 	          "Superk",
@@ -907,7 +907,7 @@
         "latitude_unit": "degree",
         "longitude": 137.313639,
         "longitude_unit": "degree",
-        "timezone": "Japan Standard Time",
+        "timezone": "Asia/Tokyo",
         "aliases": [
             "hyperk",
 	          "Hyperk",
@@ -940,7 +940,7 @@
         "latitude_unit": "degree",
         "longitude": 6.033333,
         "longitude_unit": "degree",
-        "timezone": "CEST",
+        "timezone": "Europe/Paris",
         "aliases": [
             "orca",
 	          "KM3NeT ORCA",
@@ -957,7 +957,7 @@
         "latitude_unit": "degree",
         "longitude": -81.201111,
         "longitude_unit": "degree",
-        "timezone": "EDT",
+        "timezone": "America/New_York",
         "aliases": [
             "sno+"
         ],
@@ -971,7 +971,7 @@
         "latitude_unit": "degree",
         "longitude": -81.201111,
         "longitude_unit": "degree",
-        "timezone": "EDT",
+        "timezone": "America/New_York",
         "aliases": [
             "halo"
         ],
@@ -985,7 +985,7 @@
         "latitude_unit": "degree",
         "longitude": -92.83113454369206,
         "longitude_unit": "degree",
-        "timezone": "CDT",
+        "timezone": "America/Mexico_City",
         "aliases": [
             "nova",
 	          "NOVA"
@@ -1000,7 +1000,7 @@
         "latitude_unit": "degree",
         "longitude": 0.0000,
         "longitude_unit": "degree",
-        "timezone": "NZST",
+        "timezone": "Pacific/Auckland",
         "aliases": [
             "icecube",
 	          "ICECUBE"
