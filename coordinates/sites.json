@@ -996,7 +996,7 @@
         "name": "IceCube Neutrino Observatory",
         "elevation": 850,
         "elevation_unit": "meter",
-        "latitude": 90.0000,
+        "latitude": -90.0,
         "latitude_unit": "degree",
         "longitude": 0.0000,
         "longitude_unit": "degree",
