@@ -882,7 +882,6 @@
         "longitude_unit": "degree",
         "source": "LALSuite: https://git.ligo.org/lscsoft/lalsuite/-/blob/lalsuite-v6.70/lal/lib/tools/LALDetectors.h"
     },
-
 	"SuperK": {
         "source": "SK detector paper, Fukuda et al. 2003",
         "name": "Super-Kamiokande",
