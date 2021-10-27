@@ -894,9 +894,9 @@
         "timezone": "Asia/Tokyo",
         "aliases": [
             "superk",
-	          "Superk",
-	          "superK"
-        ],
+	    "Superk",
+	    "superK"
+        ]
     },
 	"HyperK": {
         "source": "Design Report, arXiv:1805.04163v2",
@@ -910,9 +910,9 @@
         "timezone": "Asia/Tokyo",
         "aliases": [
             "hyperk",
-	          "Hyperk",
-	          "hyperK"
-        ],
+	    "Hyperk",
+	    "hyperK"
+        ]
     },
 	"ARCA": {
         "source": "SNEWS 2.0 Collaboration",
@@ -926,10 +926,10 @@
         "timezone": "Europe/Rome",
         "aliases": [
             "arca",
-	          "KM3NeT ARCA",
-	          "km3net arca",
-	          "KM3NeT arca"
-        ],
+	    "KM3NeT ARCA",
+	    "km3net arca",
+	    "KM3NeT arca"
+        ]
     },
 	"ORCA": {
         "source": "SNEWS 2.0 Collaboration",
@@ -943,10 +943,10 @@
         "timezone": "Europe/Paris",
         "aliases": [
             "orca",
-	          "KM3NeT ORCA",
-	          "km3net orca",
-	          "KM3NeT orca"
-        ],
+	    "KM3NeT ORCA",
+	    "km3net orca",
+	    "KM3NeT orca"
+        ]
     },
 	"SNO+": {
         "source": "SNEWS 2.0 Collaboration",
@@ -960,7 +960,7 @@
         "timezone": "America/New_York",
         "aliases": [
             "sno+"
-        ],
+        ]
     },
 	"HALO": {
         "source": "SNEWS 2.0 Collaboration",
@@ -974,7 +974,7 @@
         "timezone": "America/New_York",
         "aliases": [
             "halo"
-        ],
+        ]
     },
 	"NOvA": {
         "source": "SNEWS 2.0 Collaboration",
@@ -988,8 +988,8 @@
         "timezone": "America/Mexico_City",
         "aliases": [
             "nova",
-	          "NOVA"
-        ],
+	    "NOVA"
+        ]
     },
 	"IceCube": {
         "source": "SNEWS 2.0 Collaboration",
@@ -1003,8 +1003,8 @@
         "timezone": "Pacific/Auckland",
         "aliases": [
             "icecube",
-	          "ICECUBE"
-        ],
+	    "ICECUBE"
+        ]
     },
     "ovro": {
         "name": "Owens Valley Radio Observatory",
