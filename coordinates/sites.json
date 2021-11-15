@@ -225,7 +225,12 @@
         "aliases": [
             "Lowell Observatory",
             "Anderson Mesa",
-            "lo-am"
+            "lo-am",
+            "NPOI",
+            "Navy Precision Optical Interferometer",
+            "Perkins",
+            "PTO",
+            "pto"
         ]
     },
     "keck": {
@@ -929,5 +934,21 @@
            "John Galt Telescope",
            "DRAO 26m Telescope"
        ]
-   }
+    },
+    "mars_hill": {
+        "source": "Lowell Observatory",
+        "elevation": 2195,
+        "name": "Lowell Observatory - Mars Hill",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 35.202875,
+        "elevation_unit": "meter",
+        "longitude": -111.664781,
+        "timezone": "US/Mountain",
+        "aliases": [
+            "Mars Hill",
+            "lo-mh",
+            "mh"
+        ]
+    }   
 }
