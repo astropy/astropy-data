@@ -215,7 +215,7 @@
     "lowell": {
         "source": "IRAF Observatory Database",
         "elevation": 2198,
-        "name": "Lowell Observatory",
+        "name": "Lowell Observatory - Anderson Mesa",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 35.09666666666667,
@@ -223,7 +223,14 @@
         "longitude": 248.46499999999997,
         "timezone": "US/Mountain",
         "aliases": [
-            "Lowell Observatory"
+            "Lowell Observatory",
+            "Anderson Mesa",
+            "lo-am",
+            "NPOI",
+            "Navy Precision Optical Interferometer",
+            "Perkins",
+            "PTO",
+            "pto"
         ]
     },
     "keck": {
@@ -619,7 +626,7 @@
     "dct": {
         "source": "Site GPS on 20130708 UT as recorded in observatory wiki",
         "elevation": 2337.0,
-        "name": "Discovery Channel Telescope",
+        "name": "Lowell Discovery Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 34.744305,
@@ -629,7 +636,10 @@
         "aliases": [
              "DCT",
              "Discovery Channel Telescope",
-             "Happy Jack"
+             "Happy Jack",
+             "LDT",
+             "ldt",
+             "Lowell Discovery Telescope"
         ]
     },
     "vla": {
@@ -924,6 +934,22 @@
            "John Galt Telescope",
            "DRAO 26m Telescope"
        ]
+    },
+    "mars_hill": {
+        "source": "Lowell Observatory Staff",
+        "elevation": 2195,
+        "name": "Lowell Observatory - Mars Hill",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 35.202875,
+        "elevation_unit": "meter",
+        "longitude": -111.664781,
+        "timezone": "US/Mountain",
+        "aliases": [
+            "Mars Hill",
+            "lo-mh",
+            "mh"
+        ]
    },
    "askap": {
         "aliases": [
