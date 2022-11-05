@@ -689,8 +689,9 @@
     "gbt": {
         "aliases": [
             "Green Bank Telescope",
-            "GBT"
-        ],
+            "GBT",
+            "Green Bank Observatory"
+            ],
         "elevation": 0,
         "elevation_unit": "meter",
         "latitude": 38.433056,
@@ -702,6 +703,23 @@
         "elevation_unit": "meter",
         "name": "gbt",
         "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
+    },
+    "ao": {
+        "aliases": [
+            "AO",
+            "Arecibo Observatory",
+            "Arecibo",
+            "arecibo"
+            ],
+        "elevation": 497,
+        "elevation_unit": "meter",
+        "latitude": 18.34416667,
+        "latitude_unit": "degree",
+        "longitude": 293.24722222,
+        "longitude_unit": "degree",
+        "timezone": "America/Puerto_Rico",
+        "name": "Arecibo Observatory",
+        "source": "https://en.wikipedia.org/wiki/Arecibo_Observatory"
     },
     "jcmt": {
         "aliases": [
