@@ -1023,6 +1023,130 @@
         "longitude_unit": "degree",
         "source": "LALSuite: https://git.ligo.org/lscsoft/lalsuite/-/blob/lalsuite-v6.70/lal/lib/tools/LALDetectors.h"
     },
+	"SuperK": {
+        "source": "SK detector paper, Fukuda et al. 2003",
+        "name": "Super-Kamiokande",
+        "elevation": 370,
+        "elevation_unit": "meter",
+        "latitude": 36.425722,
+        "latitude_unit": "degree",
+        "longitude": 137.310306,
+        "longitude_unit": "degree",
+        "timezone": "Asia/Tokyo",
+        "aliases": [
+            "superk",
+	    "Superk",
+	    "superK"
+        ]
+    },
+	"HyperK": {
+        "source": "Design Report, arXiv:1805.04163v2",
+        "name": "Hyper-Kamiokande",
+        "elevation": 514,
+        "elevation_unit": "meter",
+        "latitude": 36.355583,
+        "latitude_unit": "degree",
+        "longitude": 137.313639,
+        "longitude_unit": "degree",
+        "timezone": "Asia/Tokyo",
+        "aliases": [
+            "hyperk",
+	    "Hyperk",
+	    "hyperK"
+        ]
+    },
+	"ARCA": {
+        "source": "SNEWS 2.0 Collaboration",
+        "name": "Astroparticle Research with Cosmics in the Abyss",
+        "elevation": -3500,
+        "elevation_unit": "meter",
+        "latitude": 36.266667,
+        "latitude_unit": "degree",
+        "longitude": 16.100000,
+        "longitude_unit": "degree",
+        "timezone": "Europe/Rome",
+        "aliases": [
+            "arca",
+	    "KM3NeT ARCA",
+	    "km3net arca",
+	    "KM3NeT arca"
+        ]
+    },
+	"ORCA": {
+        "source": "SNEWS 2.0 Collaboration",
+        "name": "Oscillation Research with Cosmics in the Abyss",
+        "elevation": -2450,
+        "elevation_unit": "meter",
+        "latitude": 42.80000,
+        "latitude_unit": "degree",
+        "longitude": 6.033333,
+        "longitude_unit": "degree",
+        "timezone": "Europe/Paris",
+        "aliases": [
+            "orca",
+	    "KM3NeT ORCA",
+	    "km3net orca",
+	    "KM3NeT orca"
+        ]
+    },
+	"SNO+": {
+        "source": "SNEWS 2.0 Collaboration",
+        "name": "Sudbury Neutrino Observatory +",
+        "elevation": -1740,
+        "elevation_unit": "meter",
+        "latitude": 46.475,
+        "latitude_unit": "degree",
+        "longitude": -81.201111,
+        "longitude_unit": "degree",
+        "timezone": "America/New_York",
+        "aliases": [
+            "sno+"
+        ]
+    },
+	"HALO": {
+        "source": "SNEWS 2.0 Collaboration",
+        "name": "Helium And Lead Observatory",
+        "elevation": -1740,
+        "elevation_unit": "meter",
+        "latitude": 46.475,
+        "latitude_unit": "degree",
+        "longitude": -81.201111,
+        "longitude_unit": "degree",
+        "timezone": "America/New_York",
+        "aliases": [
+            "halo"
+        ]
+    },
+	"NOvA": {
+        "source": "SNEWS 2.0 Collaboration",
+        "name": "NuMI Off-axis νe Appearance",
+        "elevation": 367.6,
+        "elevation_unit": "meter",
+        "latitude": 48.378628828751324,
+        "latitude_unit": "degree",
+        "longitude": -92.83113454369206,
+        "longitude_unit": "degree",
+        "timezone": "America/Mexico_City",
+        "aliases": [
+            "nova",
+	    "NOVA"
+        ]
+    },
+	"IceCube": {
+        "source": "SNEWS 2.0 Collaboration",
+        "name": "IceCube Neutrino Observatory",
+        "elevation": 850,
+        "elevation_unit": "meter",
+        "latitude": -90.0,
+        "latitude_unit": "degree",
+        "longitude": 0.0000,
+        "longitude_unit": "degree",
+        "timezone": "Pacific/Auckland",
+        "aliases": [
+            "icecube",
+	    "ICECUBE"
+        ]
+    },
     "ovro": {
         "name": "Owens Valley Radio Observatory",
         "aliases": ["mma"],
