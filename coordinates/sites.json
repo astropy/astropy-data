@@ -720,7 +720,7 @@
         "timezone": "America/Puerto_Rico",
         "name": "Arecibo Observatory",
         "source": "https://en.wikipedia.org/wiki/Arecibo_Observatory"
-    }
+    },
     "jcmt": {
         "aliases": [
             "James Clerk Maxwell Telescope",
