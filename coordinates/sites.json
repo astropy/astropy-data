@@ -763,10 +763,6 @@
         ]
     },
     "dkist": {
-        "aliases": [
-            "DKIST",
-            "ATST"
-        ],
         "name": "Daniel K. Inouye Solar Telescope",
         "elevation": 3067,
         "elevation_unit": "meter",
@@ -812,6 +808,93 @@
         "longitude_unit": "degree",
         "timezone": "US/Mountain",
         "source": "NSO website: https://nsosp-dev.nso.edu/node/18"
+    },
+    "teide": {
+        "name": "Observatorio del Teide, Tenerife",
+        "elevation": 2390,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 28.3,
+        "elevation_unit": "meter",
+        "longitude": 343.490278,
+        "timezone": "Atlantic/Canary",
+        "source": "Instituto de Astrofisica de Canarias website (http://research.iac.es/OOCC/observatorio-del-teide/ot/)",
+        "aliases": [
+            "Observatorio del Teide",
+            "OT"
+        ]
+    },
+    "CAHA": {
+        "name": "Centro Astronomico Hispano-Aleman, Almeria",
+        "elevation": 2168,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 37.22361111,
+        "elevation_unit": "meter",
+        "longitude": 357.453889,
+        "timezone": "Europe/Madrid",
+        "source": "CAHA Wikipedia page (https://en.wikipedia.org/wiki/Calar_Alto_Observatory)",
+        "aliases": [
+            "Observatorio de Calar Alto",
+            "CAHA"
+        ]
+    },
+    "OARMA": {
+        "name": "Observatorio Astronomico Ramon Maria Aller, Santiago de Compostela",
+        "elevation": 240,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 42.87594,
+        "elevation_unit": "meter",
+        "longitude": 351.44455,
+        "timezone": "Europe/Madrid",
+        "source": "OpenStreetView",
+        "aliases": [
+            "Observatorio Ramon Maria Aller",
+            "OARMA"
+        ]
+    },
+    "OAJ": {
+        "elevation": 1956,
+        "name": "Observatorio Astrofisico de Javalambre",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 40.04201944,
+        "elevation_unit": "meter",
+        "longitude": 358.98391667,
+        "timezone": "Europe/Madrid",
+        "source": "Google Earth",
+        "aliases": [
+            "OAJ"
+        ]
+    },
+    "OAO": {
+        "name": "Okayama Astrophysical Observatory",
+        "elevation": 370,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 34.577075 ,
+        "elevation_unit": "meter",
+        "longitude": 133.5939556,
+        "timezone": "Asia/Tokyo",
+        "source": "OAO Website (http://www.oao.nao.ac.jp/en/telescope/abouttel188/)",
+        "aliases": [
+            "OAO"
+        ]
+    },
+    "TNO": {
+        "name": "Thai National Observatory",
+        "elevation": 2457,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 18.59055556,
+        "elevation_unit": "meter",
+        "longitude": 98.48666667,
+        "timezone": "Asia/Bangkok",
+        "source": "TNO Wikipedia page (https://en.wikipedia.org/wiki/Thai_National_Observatory)",
+        "aliases": [
+            "TNO"
+        ]
     },
     "geo_600": {
         "name": "GEO600 Gravitational Wave Detector",
@@ -984,3 +1067,4 @@
        ]
    }
 }
+  
