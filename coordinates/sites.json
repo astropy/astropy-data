@@ -925,6 +925,21 @@
            "DRAO 26m Telescope"
        ]
    },
+   "askap": {
+        "aliases": [
+            "ASKAP",
+            "Australian Square Kilometre Array Pathfinder"
+        ],
+        "name": "Australian Square Kilometre Array Pathfinder",
+        "elevation": 360.99,
+        "elevation_unit": "meter",
+        "latitude": -26.697000,
+        "latitude_unit": "degree",
+        "longitude": 116.631424,
+        "longitude_unit": "degree",
+        "timezone": "Australia/Perth",
+        "source": "ASKAP Science Observation Guide, Version 1.1 https://confluence.csiro.au/display/askapsst/?preview=/733676544/887260100/ASKAP_sci_obs_guide.pdf"
+    },
    "Otehiwai Observatory": {
         "elevation": 1029,
         "name": "Otehiwai Observatory",
@@ -934,7 +949,7 @@
         "elevation_unit": "meter",
         "longitude": 170.46506246,
         "timezone": "NZ",
-        "source": "https://www.geodesy.linz.govt.nz/gdb/index.cgi?code=6702&sessionid=101605488220611665349776&mode=text",
+        "source": "https://www.geodesy.linz.govt.nz/gdb/index.cgi?code=6702",
         "aliases": [
            "Mt John",
            "MJO",
@@ -942,5 +957,4 @@
            "Otehiwai"
        ]
    }
-
 }
