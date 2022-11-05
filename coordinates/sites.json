@@ -792,6 +792,36 @@
         ],
         "source": "BBSO website: http://www.bbso.njit.edu/newinfo.html"
     },
+    "wiyn": {
+	      "aliases": [
+	          "WIYN",
+	          "WIYN Observatory",
+	          "WIYN 3.5 m"
+	          ],
+	      "name": "WIYN Observatory",
+	      "latitude": 31.95805,
+	      "latitude_unit": "degree",
+	      "longitude": -111.600619,
+	      "longitude_unit": "degree",
+	      "elevation": 2091.0,
+	      "elevation_unit": "meter",
+	      "timezone": "US/Arizona",
+	      "source": "WIYN 3.5m TCS"
+    },
+    "het": {
+	      "aliases": [
+	          "HET",
+	          "Hobby Eberly Telescope"	],
+	      "name": "Hobby Eberly Telescope",
+	      "latitude": 30.681389,
+	      "latitude_unit": "degree",
+	      "longitude": 255.985278,
+	      "longitude_unit": "degree",
+	      "elevation": 2026.0,
+	      "elevation_unit": "meter",
+	      "timezone": "US/Central",
+	      "source": "Wikipedia"
+    },
     "spo": {
         "aliases": [
             "SPO",
