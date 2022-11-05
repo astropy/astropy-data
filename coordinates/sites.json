@@ -940,4 +940,21 @@
         "timezone": "Australia/Perth",
         "source": "ASKAP Science Observation Guide, Version 1.1 https://confluence.csiro.au/display/askapsst/?preview=/733676544/887260100/ASKAP_sci_obs_guide.pdf"
     }
+   "Otehiwai Observatory": {
+        "elevation": 1029,
+        "name": "Otehiwai Observatory",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": -43.98574085,
+        "elevation_unit": "meter",
+        "longitude": 170.46506246,
+        "timezone": "NZ",
+        "source": "https://www.geodesy.linz.govt.nz/gdb/index.cgi?code=6702",
+        "aliases": [
+           "Mt John",
+           "MJO",
+           "MOA",
+           "Otehiwai"
+       ]
+   }
 }
