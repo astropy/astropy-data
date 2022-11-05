@@ -1,0 +1,47 @@
+name: CI
+
+on:
+  push:
+    branches:
+    - 'gh-pages'
+  pull_request:
+
+jobs:
+  initial_checks:
+    name: Mandatory checks before CI
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check base branch
+      uses: actions/github-script@v3
+      if: github.event_name == 'pull_request'
+      with:
+        script: |
+          const skip_label = 'skip-basebranch-check';
+          const allowed_basebranch = 'gh-pages';
+          const pr = context.payload.pull_request;
+          if (pr.labels.find(lbl => lbl.name === skip_label)) {
+            core.info(`Base branch check is skipped due to the presence of ${skip_label} label`);
+            return;
+          }
+          if (pr.base.ref !== allowed_basebranch) {
+            core.setFailed(`PR opened against ${pr.base.ref}, not ${allowed_basebranch}`);
+          } else {
+            core.info(`PR opened correctly against ${allowed_basebranch}`);
+          }
+
+  # The rest only run if above are done
+
+  tests:
+    runs-on: ubuntu-latest
+    needs: initial_checks
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Install Python dependencies
+      run: python -m pip install wheel pytest
+    - name: Run tests
+      run: pytest tests
