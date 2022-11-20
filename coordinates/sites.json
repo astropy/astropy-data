@@ -13,20 +13,6 @@
             "example_site"
         ]
     },
-    "parkes": {
-        "source": "CSIRO website https://www.parkes.atnf.csiro.au",
-        "name": "Parkes Observatory",
-        "longitude": 148.26352,
-        "latitude": -32.99839,
-        "elevation": 415,
-        "longitude_unit": "degree",
-        "latitude_unit": "degree",
-        "elevation_unit": "meter",
-        "time_zone": "Australia/NSW",
-        "aliases": [
-            "ATNF"
-        ]
-    },
     "sarao": {
         "source": "SARAO website https://public.ska.ac.za",
         "name": "South African Radio Astronomy Observatory",
