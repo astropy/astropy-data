@@ -1190,6 +1190,121 @@
            "DRAO 26m Telescope"
        ]
     },
+    "meerkat": {
+        "elevation": 1086.599484882955,
+        "name": "MeerKAT",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": -30.711055553291878,
+        "elevation_unit": "meter",
+        "longitude": 21.443888889697842,
+        "source": "MEERKAT, used in timing mode.\n\n    The origin of this data is unknown but as of 2021 June 8 it agrees exactly with\n    the values used by TEMPO and TEMPO2.\nvia PINT",
+	"timezone": "Africa/Johannesburg",
+	"aliases": [
+	    "MeerKAT",
+	    "MEERKAT"
+	    ]
+    },
+    "nancay": {
+        "elevation": 190.94343144560776,
+        "name": "Nancay Radio Telescope",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 47.373601708263124,
+        "elevation_unit": "meter",
+        "longitude": 2.1974784506622265,
+        "source": "The Nan\u00e7ay radio telescope.\n\n    The origin of this data is unknown but as of 2021 June 8 it agrees exactly with\n    the values used by TEMPO and TEMPO2.\nvia PINT",
+	"timezone": "Europe/Paris",
+	"aliases": [
+	    "NANCAY",
+	    "Nancay"
+	    ]
+    },
+    "gmrt": {
+        "elevation": 497.00082854780277,
+        "name": "Giant Metrewave Radio Telescope",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 19.09300278307055,
+        "elevation_unit": "meter",
+        "longitude": 74.05656115769753,
+        "source": "The Giant Metrewave Radio Telescope.\n\n    The origin of this data is unknown but as of 2021 June 8 it agrees exactly with\n    the values used by TEMPO and TEMPO2.\nvia PINT",
+	"timezone": "Asia/Calcutta",
+	"aliases": [
+	    "GMRT"
+	    ]
+    },
+    "fast": {
+        "elevation": 1109.1023222846998,
+        "name": "Five-hundred-meter Aperture Spherical radio Telescope",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 25.652946164090935,
+        "elevation_unit": "meter",
+        "longitude": 106.85666641926392,
+        "source": "The FAST radio telescope in China.\n\n    Origin of this data is unknown but as of 2021 June 8 it agrees exactly with the\n    TEMPO value and disagrees by about 17 km with the TEMPO2 value.\nvia PINT",
+	"timezone": "Asia/Shanghai",
+	"aliases": [
+	    "FAST"
+	    ]
+    },
+    "lwa1": {
+        "elevation": 2126.996641832515,
+        "name": "Long Wavelength Array 1",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 34.068899974626035,
+        "elevation_unit": "meter",
+        "longitude": -107.62767002113483,
+        "source": "The LWA (long wavelength array, in New Mexico).\n\n    Origin of this data is unknown but as of 2021 June 8 this value agrees exactly with\n    the value used by TEMPO2 but disagrees with the value used by TEMPO by about 125 m.\nvia PINT",
+        "timezone": "US/Mountain",
+	"aliases": [
+	    "LWA1"
+	    ]
+    },
+    "lofar": {
+        "elevation": 49.35002954676998,
+        "name": "Low-Frequency Array",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 52.91511896798418,
+        "elevation_unit": "meter",
+        "longitude": 6.869832836200029,
+        "source": "The Dutch low-frequency array LOFAR.\n\n    Note that other TEMPO codes have been used for this telescope.\n\n    Imported from TEMPO2 observatories.dat 2021 June 7.\nvia PINT",
+        "timezone": "Europe/Amsterdam",
+	"aliases": [
+	    "LOFAR"
+	    ]
+    },
+    "parkes": {
+        "elevation": 414.7597497078894,
+        "name": "Parkes",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": -32.99840639865134,
+        "elevation_unit": "meter",
+        "longitude": 148.2635100132104,
+        "source": "The Parkes radio telescope.\n\n    The origin of this data is unknown but as of 2021 June 8 it agrees exactly with\n    the values used by TEMPO and TEMPO2.\nvia PINT",
+        "timezone": "Australia/Sydney",
+	"aliases": [
+	    "Parkes",
+	    "Murriyang"
+	]
+    },
+    "effelsberg": {
+        "elevation": 416.7160563557801,
+        "name": "Effelsberg 100-m Radio Telescope",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 50.52483588054502,
+        "elevation_unit": "meter",
+        "longitude": 6.8836164652709835,
+        "source": "The Effelsberg radio telescope.\n\n    These are the coordinates used for VLBI as of March 2020 (MJD 58919). They are based on\n    a fiducial position at MJD 56658 plus a (continental) drift velocity of\n    [-0.0144, 0.0167, 0.0106] m/yr. This data was obtained from Ben Perera in September 2021.\nvia PINT",
+        "timezone": "Europe/Berlin",
+	"aliases": [
+	    "Effelsberg"
+	    ]
+    },
     "mars_hill": {
         "source": "Lowell Observatory Staff",
         "elevation": 2195,
