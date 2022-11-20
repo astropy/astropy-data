@@ -1289,8 +1289,24 @@
         "source": "The Dutch low-frequency array LOFAR.\n\n    Note that other TEMPO codes have been used for this telescope.\n\n    Imported from TEMPO2 observatories.dat 2021 June 7.\nvia PINT",
         "timezone": "Europe/Amsterdam",
 	"aliases": [
-	    "LOFAR"
+    	  "LOFAR"
 	    ]
+    },
+    "omm": {
+        "aliases": [
+            "OMM",
+            "Mont Mégantic Observatory",
+            "Observatoire du Mont Mégantic"
+        ],
+        "name": "Observatoire du Mont Mégantic",
+        "elevation": 1108,
+        "elevation_unit": "meter",
+        "latitude": 45.4557111111,
+        "latitude_unit": "degree",
+        "longitude": -71.1525000000,
+        "longitude_unit": "degree",
+        "timezone": "Canada/Eastern",
+        "source": "Google Maps"
     },
     "parkes": {
         "elevation": 414.7597497078894,
