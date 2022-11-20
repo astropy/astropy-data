@@ -215,7 +215,7 @@
     "lowell": {
         "source": "IRAF Observatory Database",
         "elevation": 2198,
-        "name": "Lowell Observatory",
+        "name": "Lowell Observatory - Anderson Mesa",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 35.09666666666667,
@@ -223,7 +223,14 @@
         "longitude": 248.46499999999997,
         "timezone": "US/Mountain",
         "aliases": [
-            "Lowell Observatory"
+            "Lowell Observatory",
+            "Anderson Mesa",
+            "lo-am",
+            "NPOI",
+            "Navy Precision Optical Interferometer",
+            "Perkins",
+            "PTO",
+            "pto"
         ]
     },
     "keck": {
@@ -619,7 +626,7 @@
     "dct": {
         "source": "Site GPS on 20130708 UT as recorded in observatory wiki",
         "elevation": 2337.0,
-        "name": "Discovery Channel Telescope",
+        "name": "Lowell Discovery Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "latitude": 34.744305,
@@ -629,7 +636,10 @@
         "aliases": [
              "DCT",
              "Discovery Channel Telescope",
-             "Happy Jack"
+             "Happy Jack",
+             "LDT",
+             "ldt",
+             "Lowell Discovery Telescope"
         ]
     },
     "vla": {
@@ -679,8 +689,9 @@
     "gbt": {
         "aliases": [
             "Green Bank Telescope",
-            "GBT"
-        ],
+            "GBT",
+            "Green Bank Observatory"
+            ],
         "elevation": 0,
         "elevation_unit": "meter",
         "latitude": 38.433056,
@@ -692,6 +703,23 @@
         "elevation_unit": "meter",
         "name": "gbt",
         "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
+    },
+    "ao": {
+        "aliases": [
+            "AO",
+            "Arecibo Observatory",
+            "Arecibo",
+            "arecibo"
+            ],
+        "elevation": 497,
+        "elevation_unit": "meter",
+        "latitude": 18.34416667,
+        "latitude_unit": "degree",
+        "longitude": 293.24722222,
+        "longitude_unit": "degree",
+        "timezone": "America/Puerto_Rico",
+        "name": "Arecibo Observatory",
+        "source": "https://en.wikipedia.org/wiki/Arecibo_Observatory"
     },
     "jcmt": {
         "aliases": [
@@ -753,10 +781,6 @@
         ]
     },
     "dkist": {
-        "aliases": [
-            "DKIST",
-            "ATST"
-        ],
         "name": "Daniel K. Inouye Solar Telescope",
         "elevation": 3067,
         "elevation_unit": "meter",
@@ -786,6 +810,36 @@
         ],
         "source": "BBSO website: http://www.bbso.njit.edu/newinfo.html"
     },
+    "wiyn": {
+	      "aliases": [
+	          "WIYN",
+	          "WIYN Observatory",
+	          "WIYN 3.5 m"
+	          ],
+	      "name": "WIYN Observatory",
+	      "latitude": 31.95805,
+	      "latitude_unit": "degree",
+	      "longitude": -111.600619,
+	      "longitude_unit": "degree",
+	      "elevation": 2091.0,
+	      "elevation_unit": "meter",
+	      "timezone": "US/Arizona",
+	      "source": "WIYN 3.5m TCS"
+    },
+    "het": {
+	      "aliases": [
+	          "HET",
+	          "Hobby Eberly Telescope"	],
+	      "name": "Hobby Eberly Telescope",
+	      "latitude": 30.681389,
+	      "latitude_unit": "degree",
+	      "longitude": 255.985278,
+	      "longitude_unit": "degree",
+	      "elevation": 2026.0,
+	      "elevation_unit": "meter",
+	      "timezone": "US/Central",
+	      "source": "Wikipedia"
+    },
     "spo": {
         "aliases": [
             "SPO",
@@ -802,6 +856,93 @@
         "longitude_unit": "degree",
         "timezone": "US/Mountain",
         "source": "NSO website: https://nsosp-dev.nso.edu/node/18"
+    },
+    "teide": {
+        "name": "Observatorio del Teide, Tenerife",
+        "elevation": 2390,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 28.3,
+        "elevation_unit": "meter",
+        "longitude": 343.490278,
+        "timezone": "Atlantic/Canary",
+        "source": "Instituto de Astrofisica de Canarias website (http://research.iac.es/OOCC/observatorio-del-teide/ot/)",
+        "aliases": [
+            "Observatorio del Teide",
+            "OT"
+        ]
+    },
+    "CAHA": {
+        "name": "Centro Astronomico Hispano-Aleman, Almeria",
+        "elevation": 2168,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 37.22361111,
+        "elevation_unit": "meter",
+        "longitude": 357.453889,
+        "timezone": "Europe/Madrid",
+        "source": "CAHA Wikipedia page (https://en.wikipedia.org/wiki/Calar_Alto_Observatory)",
+        "aliases": [
+            "Observatorio de Calar Alto",
+            "CAHA"
+        ]
+    },
+    "OARMA": {
+        "name": "Observatorio Astronomico Ramon Maria Aller, Santiago de Compostela",
+        "elevation": 240,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 42.87594,
+        "elevation_unit": "meter",
+        "longitude": 351.44455,
+        "timezone": "Europe/Madrid",
+        "source": "OpenStreetView",
+        "aliases": [
+            "Observatorio Ramon Maria Aller",
+            "OARMA"
+        ]
+    },
+    "OAJ": {
+        "elevation": 1956,
+        "name": "Observatorio Astrofisico de Javalambre",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 40.04201944,
+        "elevation_unit": "meter",
+        "longitude": 358.98391667,
+        "timezone": "Europe/Madrid",
+        "source": "Google Earth",
+        "aliases": [
+            "OAJ"
+        ]
+    },
+    "OAO": {
+        "name": "Okayama Astrophysical Observatory",
+        "elevation": 370,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 34.577075 ,
+        "elevation_unit": "meter",
+        "longitude": 133.5939556,
+        "timezone": "Asia/Tokyo",
+        "source": "OAO Website (http://www.oao.nao.ac.jp/en/telescope/abouttel188/)",
+        "aliases": [
+            "OAO"
+        ]
+    },
+    "TNO": {
+        "name": "Thai National Observatory",
+        "elevation": 2457,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 18.59055556,
+        "elevation_unit": "meter",
+        "longitude": 98.48666667,
+        "timezone": "Asia/Bangkok",
+        "source": "TNO Wikipedia page (https://en.wikipedia.org/wiki/Thai_National_Observatory)",
+        "aliases": [
+            "TNO"
+        ]
     },
     "geo_600": {
         "name": "GEO600 Gravitational Wave Detector",
@@ -881,6 +1022,130 @@
         "longitude": 10.504496611198473,
         "longitude_unit": "degree",
         "source": "LALSuite: https://git.ligo.org/lscsoft/lalsuite/-/blob/lalsuite-v6.70/lal/lib/tools/LALDetectors.h"
+    },
+	"SuperK": {
+        "source": "SK detector paper, Fukuda et al. 2003",
+        "name": "Super-Kamiokande",
+        "elevation": 370,
+        "elevation_unit": "meter",
+        "latitude": 36.425722,
+        "latitude_unit": "degree",
+        "longitude": 137.310306,
+        "longitude_unit": "degree",
+        "timezone": "Asia/Tokyo",
+        "aliases": [
+            "superk",
+	    "Superk",
+	    "superK"
+        ]
+    },
+	"HyperK": {
+        "source": "Design Report, arXiv:1805.04163v2",
+        "name": "Hyper-Kamiokande",
+        "elevation": 514,
+        "elevation_unit": "meter",
+        "latitude": 36.355583,
+        "latitude_unit": "degree",
+        "longitude": 137.313639,
+        "longitude_unit": "degree",
+        "timezone": "Asia/Tokyo",
+        "aliases": [
+            "hyperk",
+	    "Hyperk",
+	    "hyperK"
+        ]
+    },
+	"ARCA": {
+        "source": "SNEWS 2.0 Collaboration",
+        "name": "Astroparticle Research with Cosmics in the Abyss",
+        "elevation": -3500,
+        "elevation_unit": "meter",
+        "latitude": 36.266667,
+        "latitude_unit": "degree",
+        "longitude": 16.100000,
+        "longitude_unit": "degree",
+        "timezone": "Europe/Rome",
+        "aliases": [
+            "arca",
+	    "KM3NeT ARCA",
+	    "km3net arca",
+	    "KM3NeT arca"
+        ]
+    },
+	"ORCA": {
+        "source": "SNEWS 2.0 Collaboration",
+        "name": "Oscillation Research with Cosmics in the Abyss",
+        "elevation": -2450,
+        "elevation_unit": "meter",
+        "latitude": 42.80000,
+        "latitude_unit": "degree",
+        "longitude": 6.033333,
+        "longitude_unit": "degree",
+        "timezone": "Europe/Paris",
+        "aliases": [
+            "orca",
+	    "KM3NeT ORCA",
+	    "km3net orca",
+	    "KM3NeT orca"
+        ]
+    },
+	"SNO+": {
+        "source": "SNEWS 2.0 Collaboration",
+        "name": "Sudbury Neutrino Observatory +",
+        "elevation": -1740,
+        "elevation_unit": "meter",
+        "latitude": 46.475,
+        "latitude_unit": "degree",
+        "longitude": -81.201111,
+        "longitude_unit": "degree",
+        "timezone": "America/New_York",
+        "aliases": [
+            "sno+"
+        ]
+    },
+	"HALO": {
+        "source": "SNEWS 2.0 Collaboration",
+        "name": "Helium And Lead Observatory",
+        "elevation": -1740,
+        "elevation_unit": "meter",
+        "latitude": 46.475,
+        "latitude_unit": "degree",
+        "longitude": -81.201111,
+        "longitude_unit": "degree",
+        "timezone": "America/New_York",
+        "aliases": [
+            "halo"
+        ]
+    },
+	"NOvA": {
+        "source": "SNEWS 2.0 Collaboration",
+        "name": "NuMI Off-axis νe Appearance",
+        "elevation": 367.6,
+        "elevation_unit": "meter",
+        "latitude": 48.378628828751324,
+        "latitude_unit": "degree",
+        "longitude": -92.83113454369206,
+        "longitude_unit": "degree",
+        "timezone": "America/Mexico_City",
+        "aliases": [
+            "nova",
+	    "NOVA"
+        ]
+    },
+	"IceCube": {
+        "source": "SNEWS 2.0 Collaboration",
+        "name": "IceCube Neutrino Observatory",
+        "elevation": 850,
+        "elevation_unit": "meter",
+        "latitude": -90.0,
+        "latitude_unit": "degree",
+        "longitude": 0.0000,
+        "longitude_unit": "degree",
+        "timezone": "Pacific/Auckland",
+        "aliases": [
+            "icecube",
+	    "ICECUBE"
+        ]
     },
     "ovro": {
         "name": "Owens Valley Radio Observatory",
@@ -1039,5 +1304,68 @@
 	"aliases": [
 	    "Effelsberg"
 	    ]
-    }
+    },
+    "mars_hill": {
+        "source": "Lowell Observatory Staff",
+        "elevation": 2195,
+        "name": "Lowell Observatory - Mars Hill",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 35.202875,
+        "elevation_unit": "meter",
+        "longitude": -111.664781,
+        "timezone": "US/Mountain",
+        "aliases": [
+            "Mars Hill",
+            "lo-mh",
+            "mh"
+        ]
+   },
+   "askap": {
+        "aliases": [
+            "ASKAP",
+            "Australian Square Kilometre Array Pathfinder"
+        ],
+        "name": "Australian Square Kilometre Array Pathfinder",
+        "elevation": 360.99,
+        "elevation_unit": "meter",
+        "latitude": -26.697000,
+        "latitude_unit": "degree",
+        "longitude": 116.631424,
+        "longitude_unit": "degree",
+        "timezone": "Australia/Perth",
+        "source": "ASKAP Science Observation Guide, Version 1.1 https://confluence.csiro.au/display/askapsst/?preview=/733676544/887260100/ASKAP_sci_obs_guide.pdf"
+    },
+   "Otehiwai Observatory": {
+        "elevation": 1029,
+        "name": "Otehiwai Observatory",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": -43.98574085,
+        "elevation_unit": "meter",
+        "longitude": 170.46506246,
+        "timezone": "NZ",
+        "source": "https://www.geodesy.linz.govt.nz/gdb/index.cgi?code=6702",
+        "aliases": [
+           "Mt John",
+           "MJO",
+           "MOA",
+           "Otehiwai"
+       ]
+   },
+   "wise": {
+        "name": "Wise Observatory",
+        "elevation": 875,
+        "elevation_unit": "meter",
+        "latitude": 30.597390,
+        "latitude_unit": "degree",
+        "longitude": 34.762180,
+        "longitude_unit": "degree",
+        "timezone": "Asia/Tel_Aviv",
+        "source": "Wise Observatory One Meter Telescope Manual http://wise-obs.tau.ac.il/observations/Man/wise_man.pdf",
+        "aliases": [
+           "wise",
+           "Wise Observatory"
+       ]
+   }
 }
