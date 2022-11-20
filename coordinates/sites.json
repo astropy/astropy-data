@@ -13,6 +13,22 @@
             "example_site"
         ]
     },
+    "hcro": {
+        "source": "SRI website https://archive.sri.com/research-development/specialized-facilities/hat-creek-radio-observatory",
+        "name": "Hat Creek Radio Observatory",
+        "longitude": -121.47333,
+        "latitude": 40.81750,
+        "elevation": 986,
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "elevation_unit": "meter",
+        "time_zone": "US/Pacific",
+        "aliases": [
+            "ATA",
+            "Allen Telescope Array",
+            "Hat Creek"
+        ]
+    },
     "mwo": {
         "source": "CHARA website",
         "elevation": 1742,
