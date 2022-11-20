@@ -1237,6 +1237,20 @@
            "MOA",
            "Otehiwai"
        ]
+   },
+   "wise": {
+        "name": "Wise Observatory",
+        "elevation": 875,
+        "elevation_unit": "meter",
+        "latitude": 30.597390,
+        "latitude_unit": "degree",
+        "longitude": 34.762180,
+        "longitude_unit": "degree",
+        "timezone": "Asia/Tel_Aviv",
+        "source": "Wise Observatory One Meter Telescope Manual http://wise-obs.tau.ac.il/observations/Man/wise_man.pdf",
+        "aliases": [
+           "wise",
+           "Wise Observatory"
+       ]
    }
 }
-  
