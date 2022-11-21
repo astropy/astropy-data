@@ -569,14 +569,14 @@
         ]
     },
     "srt": {
-        "source": "SRT website & google maps",
-        "elevation": 650.0,
+        "source": "SRT single dish tools & pulsar software such as TEMPO2 and PINT. Converted through EarthLocation(4865182.7660, 791922.6890, 4035137.1740, unit=u.m).to_geodetic()",
+        "elevation": 671.6665,
         "name": "Sardinia Radio Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 39.493040,
+        "latitude": 39.49307239,
         "elevation_unit": "meter",
-        "longitude": 9.24516,
+        "longitude": 9.24515124,
         "timezone": "Europe/Rome",
         "aliases": [
              "SRT"
