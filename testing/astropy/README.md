@@ -1,6 +1,11 @@
 About
 =====
 
+This is no longer used. See https://github.com/astropy/astropy-figure-tests
+
+Old notes
+---------
+
 This directory contains reference images for the image tests in Astropy. At
 the top level is one directory per UTC time when the images were added. This
 is less confusing than using commit hashes because it allows the images to be
