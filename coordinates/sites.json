@@ -1406,9 +1406,9 @@
         "name": "Observatorio Cerro Armazones",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -24.598056,
+        "latitude": -24.59867,
         "elevation_unit": "meter",
-        "longitude": -70.196389,
+        "longitude": -70.20128,
         "timezone": "Chile/Continental",
         "aliases": [
             "OCA",
