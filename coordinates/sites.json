@@ -1399,5 +1399,20 @@
            "wise",
            "Wise Observatory"
        ]
-   }
+   },
+    "oca": {
+        "source": "https://araucaria.camk.edu.pl/index.php/observatory-cerro-armazones/",
+        "elevation": 2817,
+        "name": "Observatorio Cerro Armazones",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": -24.598056,
+        "elevation_unit": "meter",
+        "longitude": -70.196389,
+        "timezone": "Chile/Continental",
+        "aliases": [
+            "OCA",
+            "Cerro Armazones Observatory"
+        ]
+    }
 }
