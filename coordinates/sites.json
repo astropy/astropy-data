@@ -521,6 +521,37 @@
              "gemn"
         ]
     },
+    "rubin": {
+        "source": "https://arxiv.org/abs/1210.1616",
+        "elevation": 2662.75,
+        "name": "Rubin Observatory",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": -30.244633333333333,
+        "elevation_unit": "meter",
+        "longitude": -70.74941666666666,
+        "timezone": "Chile/Continental",
+        "aliases": [
+             "LSST",
+             "LSST 8.4m",
+             "Rubin"
+        ]
+    },
+    "rubin_aux": {
+        "source": "https://arxiv.org/abs/1210.1616",
+        "elevation": 2647,
+        "name": "Rubin AuxTel",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": -30.244797222222225,
+        "elevation_unit": "meter",
+        "longitude": -70.74772222222222,
+        "timezone": "Chile/Continental",
+        "aliases": [
+             "LSST 1.4m",
+             "LSST AuxTel"
+        ]
+    },
     "irtf": {
         "source": "IRTF Website",
         "elevation": 4168,
