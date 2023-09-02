@@ -1416,6 +1416,21 @@
            "Otehiwai"
        ]
    },
+   "winer": {
+        "name": "Winer Observatory",
+        "elevation": 1515.7,
+        "elevation_unit": "meter",
+        "latitude": 31.665578,
+        "latitude_unit": "degree",
+        "longitude": -110.601783,
+        "longitude_unit": "degree",
+        "timezone": "US/Arizona",
+        "source": "Winer Observatory website http://www.winer.org/",
+        "aliases": [
+            "Winer",
+            "Winer Observatory"
+    ]
+    },
    "wise": {
         "name": "Wise Observatory",
         "elevation": 875,
