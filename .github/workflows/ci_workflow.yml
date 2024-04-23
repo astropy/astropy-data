@@ -6,13 +6,17 @@ on:
     - 'gh-pages'
   pull_request:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   initial_checks:
     name: Mandatory checks before CI
     runs-on: ubuntu-latest
     steps:
     - name: Check base branch
-      uses: actions/github-script@v3
+      uses: actions/github-script@v7
       if: github.event_name == 'pull_request'
       with:
         script: |
@@ -36,9 +40,9 @@ jobs:
     needs: initial_checks
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
     - name: Install Python dependencies
