@@ -22,7 +22,7 @@
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "elevation_unit": "meter",
-        "time_zone": "US/Pacific",
+        "timezone": "US/Pacific",
         "aliases": [
             "ATA",
             "Allen Telescope Array",
