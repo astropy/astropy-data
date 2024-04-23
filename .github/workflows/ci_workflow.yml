@@ -6,6 +6,10 @@ on:
     - 'gh-pages'
   pull_request:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   initial_checks:
     name: Mandatory checks before CI
