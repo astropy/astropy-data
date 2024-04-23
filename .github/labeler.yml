@@ -1,46 +1,74 @@
 frontend:
-  - css/**/*
-  - file_index.json
-  - images/**/*
-  - index.html
-  - js/**/*
+- changed-files:
+  - any-glob-to-any-file:
+    - css/**/*
+    - file_index.json
+    - images/**/*
+    - index.html
+    - js/**/*
 
 testing:
-  - .github/**/*.yml
-  - tests/**/*
+- changed-files:
+  - any-glob-to-any-file:
+    - .github/**/*.yml
+    - tests/**/*
 
 intersphinx:
-  - intersphinx/**/*
+- changed-files:
+  - any-glob-to-any-file:
+    - intersphinx/**/*
 
 all-sky data:
-  - allsky/**/*
+- changed-files:
+  - any-glob-to-any-file:
+    - allsky/**/*
 
 coordinates data:
-  - coordinates/**/*
+- changed-files:
+  - any-glob-to-any-file:
+    - coordinates/**/*
 
 galactic center data:
-  - galactic_center/**/*
+- changed-files:
+  - any-glob-to-any-file:
+    - galactic_center/**/*
 
 l1148 data:
-  - l1448/**/*
+- changed-files:
+  - any-glob-to-any-file:
+    - l1448/**/*
 
 photometry data:
-  - photometry/**/*
+- changed-files:
+  - any-glob-to-any-file:
+    - photometry/**/*
 
 sites data:
-  - coordinates/sites.json
+- changed-files:
+  - any-glob-to-any-file:
+    - coordinates/sites.json
 
 tests data:
-  - testing/**/*
+- changed-files:
+  - any-glob-to-any-file:
+    - testing/**/*
 
 timeseries data:
-  - timeseries/**/*
+- changed-files:
+  - any-glob-to-any-file:
+    - timeseries/**/*
 
 tutorials data:
-  - tutorials/**/*
+- changed-files:
+  - any-glob-to-any-file:
+    - tutorials/**/*
 
 visualization data:
-  - visualization/**/*
+- changed-files:
+  - any-glob-to-any-file:
+    - visualization/**/*
 
 wcsaxes data:
-  - wcsaxes/**/*
+- changed-files:
+  - any-glob-to-any-file:
+    - wcsaxes/**/*
