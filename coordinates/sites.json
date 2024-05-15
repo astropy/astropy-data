@@ -13,6 +13,22 @@
             "example_site"
         ]
     },
+    "ckoirama": {
+        "source": "CITEVA via http://www.astro.uantof.cl/ckoirama",
+        "elevation": 965,
+        "name": "Observatorio Ckoirama",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": -24.089332, 
+        "elevation_unit": "meter",
+        "longitude": -69.930624,
+        "timezone": "America/Santiago",
+        "aliases": [
+            "Ckoirama",
+	    "Ckoirama Observatory",
+	    "Observatorio Ckoirama"
+        ]
+    },
     "hcro": {
         "source": "SRI website https://archive.sri.com/research-development/specialized-facilities/hat-creek-radio-observatory",
         "name": "Hat Creek Radio Observatory",
