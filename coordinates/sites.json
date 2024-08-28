@@ -19,7 +19,7 @@
         "name": "Observatorio Ckoirama",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": -24.089332, 
+        "latitude": -24.089332,
         "elevation_unit": "meter",
         "longitude": -69.930624,
         "timezone": "America/Santiago",
@@ -1475,6 +1475,21 @@
         "aliases": [
             "OCA",
             "Cerro Armazones Observatory"
+        ]
+    },
+    "Wendelstein": {
+        "source": "https://www.wendelstein-observatorium.de/#Standort",
+        "elevation": 1838,
+        "name": "Wendelstein Observatory",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 47.703638888888875,
+        "elevation_unit": "meter",
+        "longitude": 12.012055555555557,
+        "timezone": "Europe/Berlin",
+        "aliases": [
+             "Wendelstein Observatory",
+             "wendelstein"
         ]
     }
 }
