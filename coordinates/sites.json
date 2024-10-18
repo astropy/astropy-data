@@ -437,6 +437,20 @@
             "Subaru Telescope"
         ]
     },
+    "sma": {
+        "source": "SMA internal GPS (October 2024)",
+        "name": "Sub-millimeter Array",
+        "elevation": 4125.1,
+        "elevation_unit": "meter",
+        "latitude": 19.823477,
+        "latitude_unit": "degree",
+        "longitude": -155.477258,
+        "longitude_unit": "degree",
+        "timezone": "US/Hawaii",
+	"aliases": [
+            "SMA"
+        ]
+    },
     "vbo": {
         "source": "IRAF Observatory Database",
         "elevation": 725,
