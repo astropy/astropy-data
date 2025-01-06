@@ -778,15 +778,13 @@
             "GBT",
             "Green Bank Observatory"
             ],
-        "elevation": 0,
+        "elevation": 807,
         "elevation_unit": "meter",
         "latitude": 38.433056,
         "latitude_unit": "degree",
         "longitude": -79.839722,
         "longitude_unit": "degree",
         "timezone": "US/Eastern",
-        "elevation": 807,
-        "elevation_unit": "meter",
         "name": "gbt",
         "source": "https://en.wikipedia.org/wiki/Green_Bank_Telescope + Google Elevation service for elevation"
     },
@@ -1514,5 +1512,39 @@
              "Wendelstein Observatory",
              "wendelstein"
         ]
+    },
+    "ska-low": {
+        "name": "SKA-Low",
+        "elevation": 365.0,
+        "elevation_unit": "meter",
+        "latitude": -26.82472208,
+        "latitude_unit": "degree",
+        "longitude": 116.7644482,
+        "longitude_unit": "degree",
+        "source": "As specified in the ska-ost-array-config package, https://gitlab.com/ska-telescope/ost/ska-ost-array-config/-/blob/master/src/ska_ost_array_config/array_config.py \n Location documented in SKA-TEL-SKO-0000422 / 513-000001-CIV-1002",
+        "timezone": "Australia/Perth",
+	"aliases": [
+    	    "SKA-LOW",
+	    "SKA Low",
+	    "ska low",
+	    "skalow"
+	]
+    },
+    "ska-mid": {
+        "name": "SKA-Mid",
+        "elevation": 1095.967,
+        "elevation_unit": "meter",
+        "latitude": -30.71292499,
+        "latitude_unit": "degree",
+        "longitude": 21.44380263,
+        "longitude_unit": "degree",
+        "source": "As specified in the ska-ost-array-config package, https://gitlab.com/ska-telescope/ost/ska-ost-array-config/-/blob/master/src/ska_ost_array_config/array_config.py \n Location documented in SKA-TEL-INSA-0000537 Revision 11",
+        "timezone": "Africa/Johannesburg",
+	"aliases": [
+    	    "SKA-MID",
+	    "SKA Mid",
+	    "ska mid",
+	    "skamid"
+	]
     }
 }
