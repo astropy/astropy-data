@@ -30,11 +30,11 @@
         ]
     },
     "hcro": {
-        "source": "SRI website https://archive.sri.com/research-development/specialized-facilities/hat-creek-radio-observatory",
+        "source": "W. Farah (Allen Telescope Array Project Scientist, SETI Institute)",
         "name": "Hat Creek Radio Observatory",
-        "longitude": -121.47333,
-        "latitude": 40.81750,
-        "elevation": 986,
+        "longitude": -121.47073611111111,
+        "latitude": 40.81743055555556,
+        "elevation": 1019.222,
         "longitude_unit": "degree",
         "latitude_unit": "degree",
         "elevation_unit": "meter",
