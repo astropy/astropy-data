@@ -1546,5 +1546,20 @@
 	    "ska mid",
 	    "skamid"
 	]
+    },
+    "oalp": {
+        "name": "Observatorio Astronomico de La Plata",
+        "source": "OALP Wikipedia page (https://en.wikipedia.org/wiki/La_Plata_Astronomical_Observatory)",
+        "latitude": -34.908472,
+        "latitude_unit": "degree",
+        "longitude": -57.932722,
+        "longitude_unit": "degree",
+        "elevation": 16,
+        "elevation_unit": "meter",
+        "timezone": "America/Argentina/Buenos_Aires",
+        "aliases": [
+            "La Plata Astronomical Observatory",
+            "OALP"
+        ]
     }
 }
