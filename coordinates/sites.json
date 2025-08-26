@@ -1436,6 +1436,21 @@
         "timezone": "Australia/Perth",
         "source": "ASKAP Science Observation Guide, Version 1.1 https://confluence.csiro.au/display/askapsst/?preview=/733676544/887260100/ASKAP_sci_obs_guide.pdf"
     },
+	"atca": {
+        "aliases": [
+            "ATCA",
+            "Australia Telescope Compact Array"
+        ],
+        "name": "Australia Telescope Compact Array",
+        "elevation": 237,
+        "elevation_unit": "meter",
+        "latitude": -30.3139,
+        "latitude_unit": "degree",
+        "longitude": 149.5646,
+        "longitude_unit": "degree",
+        "timezone": "Australia/Sydney",
+        "source": "ATCA Users Guide, Revision 1.10 https://www.narrabri.atnf.csiro.au/observing/users_guide/html/atug.html"
+    },
    "Otehiwai Observatory": {
         "elevation": 1029,
         "name": "Otehiwai Observatory",
