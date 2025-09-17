@@ -390,7 +390,8 @@
         "longitude": 149.06608611111113,
         "timezone": "Australia/Sydney",
         "aliases": [
-            "Anglo-Australian Observatory"
+            "Anglo-Australian Observatory",
+			"aao"
         ]
     },
     "flwo": {
