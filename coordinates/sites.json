@@ -862,7 +862,8 @@
         "longitude": 78.96416666666667,
         "timezone": "Asia/Kolkata",
         "aliases": [
-            "IAO"
+            "IAO",
+	    "HCT"
         ]
     },
     "dkist": {
