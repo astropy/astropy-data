@@ -1577,5 +1577,20 @@
             "La Plata Astronomical Observatory",
             "OALP"
         ]
+    },
+	"Lijiang": {
+        "source": "https://sao.ynao.ac.cn/equipment/2-4m-telescope",
+        "elevation": 3200.0,
+        "name": "Lijiang Observatory",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 26.6951,
+        "elevation_unit": "meter",
+        "longitude": 100.0300,
+        "timezone": "Asia/Shanghai",
+        "aliases": [
+            "Lijiang Observatory",
+			"GMG"
+        ]
     }
 }
