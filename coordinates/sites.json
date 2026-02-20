@@ -1592,5 +1592,21 @@
             "Lijiang Observatory",
 			"GMG"
         ]
+    },
+    "mlo": {
+        "aliases": [
+            "MLO",
+            "Mount Laguna Observatory",
+            "Mount Laguna"
+            ],
+        "elevation": 1859,
+        "elevation_unit": "meter",
+        "latitude": 32.8422,
+        "latitude_unit": "degree",
+        "longitude": 243.5731,
+        "longitude_unit": "degree",
+        "timezone": "America/Los_Angeles",
+        "name": "Mount Laguna Observatory",
+        "source": "https://en.wikipedia.org/wiki/Mount_Laguna_Observatory"
     }
 }
