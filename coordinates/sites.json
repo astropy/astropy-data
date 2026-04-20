@@ -1608,5 +1608,19 @@
         "timezone": "America/Los_Angeles",
         "name": "Mount Laguna Observatory",
         "source": "https://en.wikipedia.org/wiki/Mount_Laguna_Observatory"
+    },
+    "dwingeloo": {
+        "source": "Dwingeloo survey analysis via https://data.camras.nl/tammojan/dish_projection.html",
+        "elevation": 70.260,
+        "name": "Dwingeloo Radio Telescope",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 52.812137,
+        "elevation_unit": "meter",
+        "longitude": 6.396346,
+        "timezone": "Europe/Amsterdam",
+        "aliases": [
+            "dwl"
+        ]
     }
 }
