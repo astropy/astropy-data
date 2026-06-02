@@ -862,8 +862,23 @@
         "longitude": 78.96416666666667,
         "timezone": "Asia/Kolkata",
         "aliases": [
-            "IAO"
+            "IAO",
+	    "HCT"
         ]
+    },
+    "dot": {
+	"source": "https://www.aries.res.in/facilities/astronomical-telescopes/360cm-telescope/telescope",
+	"elevation": 2424,
+	"name": "Devasthal Optical Telescope",
+	"longitude_unit": "degree",
+	"latitude_unit": "degree",
+	"latitude": 29.36098245881982,
+	"elevation_unit": "meter",
+	"longitude": 79.68436557261641,
+	"timezone": "Asia/Kolkata",
+	"aliases": [
+	    "DOT"
+	]
     },
     "dkist": {
         "name": "Daniel K. Inouye Solar Telescope",
