@@ -872,9 +872,9 @@
 	"name": "Devasthal Optical Telescope",
 	"longitude_unit": "degree",
 	"latitude_unit": "degree",
-	"latitude": 29.3611111111,
+	"latitude": 29.36098245881982,
 	"elevation_unit": "meter",
-	"longitude": 79.6844444444,
+	"longitude": 79.68436557261641,
 	"timezone": "Asia/Kolkata",
 	"aliases": [
 	    "DOT"
