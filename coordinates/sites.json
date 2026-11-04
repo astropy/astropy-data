@@ -1637,5 +1637,20 @@
         "aliases": [
             "dwl"
         ]
+    },
+	"nanshan": {
+        "source": "http://english.xao.cas.cn/research/facilities/202407/t20240729_678129.html",
+        "elevation": 2080.5,
+        "name": "NanShan Radio Telescope (NSRT, Xinjiang Astronomical Observatory)",
+        "longitude_unit": "degree",
+        "latitude_unit": "degree",
+        "latitude": 43.47117,
+        "elevation_unit": "meter",
+        "longitude": 87.17783,
+        "timezone": "Asia/Shanghai",
+        "aliases": [
+            "NANSHAN",
+            "NSRT"
+        ]
     }
 }
