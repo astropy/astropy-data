@@ -231,14 +231,14 @@
         ]
     },
     "cfht": {
-        "source": "IRAF Observatory Database",
-        "elevation": 4215,
+        "source": "https://irtfweb.ifa.hawaii.edu/observing/telescopeCoordinates.php (IfA aerial survey of 1996-09-25, NAD83)",
+        "elevation": 4204.1,
         "name": "Canada-France-Hawaii Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 19.826666666666668,
+        "latitude": 19.8252518,
         "elevation_unit": "meter",
-        "longitude": 204.52833333333334,
+        "longitude": 204.53112428333333,
         "timezone": "US/Hawaii",
         "aliases": [
             "Canada-France-Hawaii Telescope"
@@ -266,14 +266,14 @@
         ]
     },
     "keck": {
-        "source": "IRAF Observatory Database",
-        "elevation": 4160,
+        "source": "https://irtfweb.ifa.hawaii.edu/observing/telescopeCoordinates.php (IfA aerial survey of 1996-09-25, NAD83; midpoint of Keck 1 and Keck 2)",
+        "elevation": 4159.6,
         "name": "W. M. Keck Observatory",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 19.828333333333333,
+        "latitude": 19.826253534722223,
         "elevation_unit": "meter",
-        "longitude": 204.52166666666668,
+        "longitude": 204.5255237041667,
         "timezone": "US/Hawaii",
         "aliases": [
             "W. M. Keck Observatory",
@@ -425,14 +425,14 @@
         ]
     },
     "Subaru": {
-        "source": "Subaru Telescope website (August 2015)",
-        "elevation": 4139,
+        "source": "https://irtfweb.ifa.hawaii.edu/observing/telescopeCoordinates.php (IfA aerial survey of 1996-09-25, NAD83; height of the elevation axis)",
+        "elevation": 4163.0,
         "name": "Subaru Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 19.825555555555557,
+        "latitude": 19.825503958333332,
         "elevation_unit": "meter",
-        "longitude": 204.5238888888889,
+        "longitude": 204.52398133611112,
         "timezone": "US/Hawaii",
         "aliases": [
             "Subaru Telescope"
