@@ -410,14 +410,14 @@
         ]
     },
     "ekar": {
-        "source": "IRAF Observatory Database",
-        "elevation": 1413,
+        "source": "https://www.oapd.inaf.it/sede-di-asiago/telescopes-and-instrumentations/copernico-182cm-telescope (INAF Osservatorio Astronomico di Padova)",
+        "elevation": 1376.2,
         "name": "Cima Ekar 182 cm Telescope",
         "longitude_unit": "degree",
         "latitude_unit": "degree",
-        "latitude": 45.84858888888889,
+        "latitude": 45.84858166666667,
         "elevation_unit": "meter",
-        "longitude": 11.581133333333334,
+        "longitude": 11.568999166666666,
         "timezone": "Europe/Rome",
         "aliases": [
             "Cima Ekar Observing Station",
